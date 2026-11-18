@@ -1,0 +1,46 @@
+store_id,store_name,city,province,region,store_type,open_date,square_feet
+1,Toronto Downtown,Toronto,ON,Ontario,Flagship,2012-04-01,62000
+2,Toronto Queen West,Toronto,ON,Ontario,Standard,2015-09-01,28000
+3,Toronto Scarborough,Toronto,ON,Ontario,Standard,2014-03-01,34000
+4,Toronto North York,Toronto,ON,Ontario,Standard,2016-05-01,30000
+5,Mississauga City Centre,Mississauga,ON,Ontario,Standard,2013-10-01,38000
+6,Mississauga Outlet,Mississauga,ON,Ontario,Outlet,2018-06-01,22000
+7,Ottawa Centre,Ottawa,ON,Ontario,Standard,2014-08-01,33000
+8,Ottawa Kanata,Ottawa,ON,Ontario,Standard,2019-04-01,26000
+9,Hamilton Mountain,Hamilton,ON,Ontario,Standard,2017-03-01,27000
+10,London North,London,ON,Ontario,Standard,2018-09-01,25000
+11,Brampton East,Brampton,ON,Ontario,Standard,2024-05-10,29000
+12,Markham Centre,Markham,ON,Ontario,Standard,2016-11-01,27000
+13,Vaughan Outlet,Vaughan,ON,Ontario,Outlet,2019-11-01,24000
+14,Kitchener Fairview,Kitchener,ON,Ontario,Standard,2020-02-01,23000
+15,Montreal Downtown,Montreal,QC,Quebec,Flagship,2013-05-01,55000
+16,Montreal Plateau,Montreal,QC,Quebec,Standard,2016-04-01,24000
+17,Montreal West Island,Montreal,QC,Quebec,Standard,2017-08-01,30000
+18,Montreal East Outlet,Montreal,QC,Quebec,Outlet,2019-03-01,21000
+19,Quebec City Sainte-Foy,Quebec City,QC,Quebec,Standard,2015-06-01,29000
+20,Quebec City Lebourgneuf,Quebec City,QC,Quebec,Standard,2020-09-01,22000
+21,Laval Centre,Laval,QC,Quebec,Standard,2018-03-01,27000
+22,Gatineau Plateau,Gatineau,QC,Quebec,Standard,2019-10-01,21000
+23,Vancouver Downtown,Vancouver,BC,West,Flagship,2014-02-01,50000
+24,Vancouver Kitsilano,Vancouver,BC,West,Standard,2017-05-01,23000
+25,Burnaby Central,Burnaby,BC,West,Standard,2016-09-01,31000
+26,Surrey Guildford,Surrey,BC,West,Standard,2018-04-01,28000
+27,Richmond Outlet,Richmond,BC,West,Outlet,2019-06-01,22000
+28,Victoria Uptown,Victoria,BC,West,Standard,2018-10-01,24000
+29,Kelowna Orchard,Kelowna,BC,West,Standard,2025-03-15,22000
+30,Calgary Downtown,Calgary,AB,Prairies,Standard,2015-03-01,30000
+31,Calgary South,Calgary,AB,Prairies,Standard,2017-10-01,28000
+32,Edmonton West,Edmonton,AB,Prairies,Standard,2016-02-01,32000
+33,Edmonton South,Edmonton,AB,Prairies,Standard,2019-05-01,26000
+34,Winnipeg Polo Park,Winnipeg,MB,Prairies,Standard,2017-04-01,27000
+35,Saskatoon Centre,Saskatoon,SK,Prairies,Standard,2018-08-01,22000
+36,Regina Southland,Regina,SK,Prairies,Standard,2019-09-01,21000
+37,Halifax Downtown,Halifax,NS,Atlantic,Standard,2016-06-01,26000
+38,Halifax Dartmouth,Halifax,NS,Atlantic,Standard,2020-03-01,20000
+39,Moncton Centre,Moncton,NB,Atlantic,Standard,2019-07-01,20000
+40,St. John's Avalon,St. John's,NL,Atlantic,Standard,2018-11-01,21000
+41,Northward.ca Hub - Ontario,Milton,ON,Ontario,Online Hub,2018-01-01,
+42,Northward.ca Hub - Quebec,Boucherville,QC,Quebec,Online Hub,2018-01-01,
+43,Northward.ca Hub - West,Delta,BC,West,Online Hub,2018-01-01,
+44,Northward.ca Hub - Prairies,Rocky View,AB,Prairies,Online Hub,2018-01-01,
+45,Northward.ca Hub - Atlantic,Dieppe,NB,Atlantic,Online Hub,2018-01-01,

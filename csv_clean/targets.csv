@@ -1,0 +1,1081 @@
+target_id,target_month,region,category,revenue_target
+1,2023-01-01,Ontario,Electronics,52800.0
+2,2023-01-01,Ontario,Home & Kitchen,27700.0
+3,2023-01-01,Ontario,Apparel,37200.0
+4,2023-01-01,Ontario,Sports & Outdoors,35800.0
+5,2023-01-01,Ontario,Beauty,8100.0
+6,2023-01-01,Ontario,Toys,3500.0
+7,2023-01-01,Quebec,Electronics,24600.0
+8,2023-01-01,Quebec,Home & Kitchen,10900.0
+9,2023-01-01,Quebec,Apparel,12500.0
+10,2023-01-01,Quebec,Sports & Outdoors,19300.0
+11,2023-01-01,Quebec,Beauty,3200.0
+12,2023-01-01,Quebec,Toys,1200.0
+13,2023-01-01,West,Electronics,19000.0
+14,2023-01-01,West,Home & Kitchen,8500.0
+15,2023-01-01,West,Apparel,9400.0
+16,2023-01-01,West,Sports & Outdoors,12300.0
+17,2023-01-01,West,Beauty,3000.0
+18,2023-01-01,West,Toys,1200.0
+19,2023-01-01,Prairies,Electronics,20600.0
+20,2023-01-01,Prairies,Home & Kitchen,8500.0
+21,2023-01-01,Prairies,Apparel,12800.0
+22,2023-01-01,Prairies,Sports & Outdoors,16400.0
+23,2023-01-01,Prairies,Beauty,4100.0
+24,2023-01-01,Prairies,Toys,1600.0
+25,2023-01-01,Atlantic,Electronics,5700.0
+26,2023-01-01,Atlantic,Home & Kitchen,3900.0
+27,2023-01-01,Atlantic,Apparel,5500.0
+28,2023-01-01,Atlantic,Sports & Outdoors,5300.0
+29,2023-01-01,Atlantic,Beauty,800.0
+30,2023-01-01,Atlantic,Toys,800.0
+31,2023-02-01,Ontario,Electronics,41900.0
+32,2023-02-01,Ontario,Home & Kitchen,21300.0
+33,2023-02-01,Ontario,Apparel,20900.0
+34,2023-02-01,Ontario,Sports & Outdoors,26500.0
+35,2023-02-01,Ontario,Beauty,7000.0
+36,2023-02-01,Ontario,Toys,2400.0
+37,2023-02-01,Quebec,Electronics,28200.0
+38,2023-02-01,Quebec,Home & Kitchen,8300.0
+39,2023-02-01,Quebec,Apparel,14400.0
+40,2023-02-01,Quebec,Sports & Outdoors,12400.0
+41,2023-02-01,Quebec,Beauty,3900.0
+42,2023-02-01,Quebec,Toys,1200.0
+43,2023-02-01,West,Electronics,11600.0
+44,2023-02-01,West,Home & Kitchen,6700.0
+45,2023-02-01,West,Apparel,8400.0
+46,2023-02-01,West,Sports & Outdoors,8600.0
+47,2023-02-01,West,Beauty,2400.0
+48,2023-02-01,West,Toys,1000.0
+49,2023-02-01,Prairies,Electronics,21700.0
+50,2023-02-01,Prairies,Home & Kitchen,7100.0
+51,2023-02-01,Prairies,Apparel,8200.0
+52,2023-02-01,Prairies,Sports & Outdoors,10500.0
+53,2023-02-01,Prairies,Beauty,2400.0
+54,2023-02-01,Prairies,Toys,1400.0
+55,2023-02-01,Atlantic,Electronics,5300.0
+56,2023-02-01,Atlantic,Home & Kitchen,4500.0
+57,2023-02-01,Atlantic,Apparel,2900.0
+58,2023-02-01,Atlantic,Sports & Outdoors,2300.0
+59,2023-02-01,Atlantic,Beauty,1200.0
+60,2023-02-01,Atlantic,Toys,500.0
+61,2023-03-01,Ontario,Electronics,57200.0
+62,2023-03-01,Ontario,Home & Kitchen,21800.0
+63,2023-03-01,Ontario,Apparel,22700.0
+64,2023-03-01,Ontario,Sports & Outdoors,24900.0
+65,2023-03-01,Ontario,Beauty,7000.0
+66,2023-03-01,Ontario,Toys,4900.0
+67,2023-03-01,Quebec,Electronics,19200.0
+68,2023-03-01,Quebec,Home & Kitchen,12100.0
+69,2023-03-01,Quebec,Apparel,12600.0
+70,2023-03-01,Quebec,Sports & Outdoors,16200.0
+71,2023-03-01,Quebec,Beauty,3500.0
+72,2023-03-01,Quebec,Toys,1800.0
+73,2023-03-01,West,Electronics,21300.0
+74,2023-03-01,West,Home & Kitchen,8600.0
+75,2023-03-01,West,Apparel,8300.0
+76,2023-03-01,West,Sports & Outdoors,9600.0
+77,2023-03-01,West,Beauty,3400.0
+78,2023-03-01,West,Toys,2800.0
+79,2023-03-01,Prairies,Electronics,22000.0
+80,2023-03-01,Prairies,Home & Kitchen,9900.0
+81,2023-03-01,Prairies,Apparel,9400.0
+82,2023-03-01,Prairies,Sports & Outdoors,13500.0
+83,2023-03-01,Prairies,Beauty,2700.0
+84,2023-03-01,Prairies,Toys,2600.0
+85,2023-03-01,Atlantic,Electronics,11800.0
+86,2023-03-01,Atlantic,Home & Kitchen,3100.0
+87,2023-03-01,Atlantic,Apparel,3200.0
+88,2023-03-01,Atlantic,Sports & Outdoors,4900.0
+89,2023-03-01,Atlantic,Beauty,1900.0
+90,2023-03-01,Atlantic,Toys,600.0
+91,2023-04-01,Ontario,Electronics,57300.0
+92,2023-04-01,Ontario,Home & Kitchen,25500.0
+93,2023-04-01,Ontario,Apparel,20700.0
+94,2023-04-01,Ontario,Sports & Outdoors,23700.0
+95,2023-04-01,Ontario,Beauty,6200.0
+96,2023-04-01,Ontario,Toys,8000.0
+97,2023-04-01,Quebec,Electronics,23200.0
+98,2023-04-01,Quebec,Home & Kitchen,9700.0
+99,2023-04-01,Quebec,Apparel,11300.0
+100,2023-04-01,Quebec,Sports & Outdoors,6800.0
+101,2023-04-01,Quebec,Beauty,2500.0
+102,2023-04-01,Quebec,Toys,3300.0
+103,2023-04-01,West,Electronics,34700.0
+104,2023-04-01,West,Home & Kitchen,10500.0
+105,2023-04-01,West,Apparel,8300.0
+106,2023-04-01,West,Sports & Outdoors,10300.0
+107,2023-04-01,West,Beauty,2900.0
+108,2023-04-01,West,Toys,1800.0
+109,2023-04-01,Prairies,Electronics,31700.0
+110,2023-04-01,Prairies,Home & Kitchen,10600.0
+111,2023-04-01,Prairies,Apparel,7200.0
+112,2023-04-01,Prairies,Sports & Outdoors,12200.0
+113,2023-04-01,Prairies,Beauty,3500.0
+114,2023-04-01,Prairies,Toys,2100.0
+115,2023-04-01,Atlantic,Electronics,10800.0
+116,2023-04-01,Atlantic,Home & Kitchen,4500.0
+117,2023-04-01,Atlantic,Apparel,2500.0
+118,2023-04-01,Atlantic,Sports & Outdoors,3000.0
+119,2023-04-01,Atlantic,Beauty,1400.0
+120,2023-04-01,Atlantic,Toys,1100.0
+121,2023-05-01,Ontario,Electronics,42900.0
+122,2023-05-01,Ontario,Home & Kitchen,19800.0
+123,2023-05-01,Ontario,Apparel,14300.0
+124,2023-05-01,Ontario,Sports & Outdoors,34400.0
+125,2023-05-01,Ontario,Beauty,7100.0
+126,2023-05-01,Ontario,Toys,5100.0
+127,2023-05-01,Quebec,Electronics,29300.0
+128,2023-05-01,Quebec,Home & Kitchen,14800.0
+129,2023-05-01,Quebec,Apparel,7700.0
+130,2023-05-01,Quebec,Sports & Outdoors,17800.0
+131,2023-05-01,Quebec,Beauty,4800.0
+132,2023-05-01,Quebec,Toys,3300.0
+133,2023-05-01,West,Electronics,16500.0
+134,2023-05-01,West,Home & Kitchen,9600.0
+135,2023-05-01,West,Apparel,4200.0
+136,2023-05-01,West,Sports & Outdoors,13500.0
+137,2023-05-01,West,Beauty,3400.0
+138,2023-05-01,West,Toys,2800.0
+139,2023-05-01,Prairies,Electronics,23100.0
+140,2023-05-01,Prairies,Home & Kitchen,10000.0
+141,2023-05-01,Prairies,Apparel,7700.0
+142,2023-05-01,Prairies,Sports & Outdoors,16300.0
+143,2023-05-01,Prairies,Beauty,3400.0
+144,2023-05-01,Prairies,Toys,2600.0
+145,2023-05-01,Atlantic,Electronics,7300.0
+146,2023-05-01,Atlantic,Home & Kitchen,5300.0
+147,2023-05-01,Atlantic,Apparel,2800.0
+148,2023-05-01,Atlantic,Sports & Outdoors,7000.0
+149,2023-05-01,Atlantic,Beauty,1600.0
+150,2023-05-01,Atlantic,Toys,1300.0
+151,2023-06-01,Ontario,Electronics,52200.0
+152,2023-06-01,Ontario,Home & Kitchen,18900.0
+153,2023-06-01,Ontario,Apparel,11900.0
+154,2023-06-01,Ontario,Sports & Outdoors,33500.0
+155,2023-06-01,Ontario,Beauty,7000.0
+156,2023-06-01,Ontario,Toys,6100.0
+157,2023-06-01,Quebec,Electronics,23200.0
+158,2023-06-01,Quebec,Home & Kitchen,10400.0
+159,2023-06-01,Quebec,Apparel,7700.0
+160,2023-06-01,Quebec,Sports & Outdoors,20500.0
+161,2023-06-01,Quebec,Beauty,4500.0
+162,2023-06-01,Quebec,Toys,2400.0
+163,2023-06-01,West,Electronics,21400.0
+164,2023-06-01,West,Home & Kitchen,10300.0
+165,2023-06-01,West,Apparel,7800.0
+166,2023-06-01,West,Sports & Outdoors,14100.0
+167,2023-06-01,West,Beauty,2200.0
+168,2023-06-01,West,Toys,2300.0
+169,2023-06-01,Prairies,Electronics,23200.0
+170,2023-06-01,Prairies,Home & Kitchen,8900.0
+171,2023-06-01,Prairies,Apparel,6400.0
+172,2023-06-01,Prairies,Sports & Outdoors,15800.0
+173,2023-06-01,Prairies,Beauty,3200.0
+174,2023-06-01,Prairies,Toys,2500.0
+175,2023-06-01,Atlantic,Electronics,8400.0
+176,2023-06-01,Atlantic,Home & Kitchen,4000.0
+177,2023-06-01,Atlantic,Apparel,3000.0
+178,2023-06-01,Atlantic,Sports & Outdoors,8600.0
+179,2023-06-01,Atlantic,Beauty,1400.0
+180,2023-06-01,Atlantic,Toys,1300.0
+181,2023-07-01,Ontario,Electronics,35800.0
+182,2023-07-01,Ontario,Home & Kitchen,24800.0
+183,2023-07-01,Ontario,Apparel,12200.0
+184,2023-07-01,Ontario,Sports & Outdoors,29900.0
+185,2023-07-01,Ontario,Beauty,8300.0
+186,2023-07-01,Ontario,Toys,6900.0
+187,2023-07-01,Quebec,Electronics,28800.0
+188,2023-07-01,Quebec,Home & Kitchen,13600.0
+189,2023-07-01,Quebec,Apparel,7500.0
+190,2023-07-01,Quebec,Sports & Outdoors,16000.0
+191,2023-07-01,Quebec,Beauty,3500.0
+192,2023-07-01,Quebec,Toys,3100.0
+193,2023-07-01,West,Electronics,14100.0
+194,2023-07-01,West,Home & Kitchen,8100.0
+195,2023-07-01,West,Apparel,4700.0
+196,2023-07-01,West,Sports & Outdoors,12400.0
+197,2023-07-01,West,Beauty,2900.0
+198,2023-07-01,West,Toys,2700.0
+199,2023-07-01,Prairies,Electronics,29100.0
+200,2023-07-01,Prairies,Home & Kitchen,11500.0
+201,2023-07-01,Prairies,Apparel,7900.0
+202,2023-07-01,Prairies,Sports & Outdoors,17800.0
+203,2023-07-01,Prairies,Beauty,3400.0
+204,2023-07-01,Prairies,Toys,2900.0
+205,2023-07-01,Atlantic,Electronics,11900.0
+206,2023-07-01,Atlantic,Home & Kitchen,5000.0
+207,2023-07-01,Atlantic,Apparel,3000.0
+208,2023-07-01,Atlantic,Sports & Outdoors,9300.0
+209,2023-07-01,Atlantic,Beauty,800.0
+210,2023-07-01,Atlantic,Toys,1800.0
+211,2023-08-01,Ontario,Electronics,82600.0
+212,2023-08-01,Ontario,Home & Kitchen,27400.0
+213,2023-08-01,Ontario,Apparel,32400.0
+214,2023-08-01,Ontario,Sports & Outdoors,37800.0
+215,2023-08-01,Ontario,Beauty,9800.0
+216,2023-08-01,Ontario,Toys,7500.0
+217,2023-08-01,Quebec,Electronics,36800.0
+218,2023-08-01,Quebec,Home & Kitchen,15100.0
+219,2023-08-01,Quebec,Apparel,18300.0
+220,2023-08-01,Quebec,Sports & Outdoors,20100.0
+221,2023-08-01,Quebec,Beauty,3400.0
+222,2023-08-01,Quebec,Toys,3300.0
+223,2023-08-01,West,Electronics,23800.0
+224,2023-08-01,West,Home & Kitchen,11800.0
+225,2023-08-01,West,Apparel,11600.0
+226,2023-08-01,West,Sports & Outdoors,17000.0
+227,2023-08-01,West,Beauty,3300.0
+228,2023-08-01,West,Toys,2300.0
+229,2023-08-01,Prairies,Electronics,26600.0
+230,2023-08-01,Prairies,Home & Kitchen,11200.0
+231,2023-08-01,Prairies,Apparel,13700.0
+232,2023-08-01,Prairies,Sports & Outdoors,14300.0
+233,2023-08-01,Prairies,Beauty,4100.0
+234,2023-08-01,Prairies,Toys,3000.0
+235,2023-08-01,Atlantic,Electronics,12400.0
+236,2023-08-01,Atlantic,Home & Kitchen,6400.0
+237,2023-08-01,Atlantic,Apparel,4500.0
+238,2023-08-01,Atlantic,Sports & Outdoors,5400.0
+239,2023-08-01,Atlantic,Beauty,1500.0
+240,2023-08-01,Atlantic,Toys,1300.0
+241,2023-09-01,Ontario,Electronics,53500.0
+242,2023-09-01,Ontario,Home & Kitchen,24700.0
+243,2023-09-01,Ontario,Apparel,31300.0
+244,2023-09-01,Ontario,Sports & Outdoors,22500.0
+245,2023-09-01,Ontario,Beauty,8200.0
+246,2023-09-01,Ontario,Toys,6900.0
+247,2023-09-01,Quebec,Electronics,13700.0
+248,2023-09-01,Quebec,Home & Kitchen,14500.0
+249,2023-09-01,Quebec,Apparel,15100.0
+250,2023-09-01,Quebec,Sports & Outdoors,10600.0
+251,2023-09-01,Quebec,Beauty,4600.0
+252,2023-09-01,Quebec,Toys,3800.0
+253,2023-09-01,West,Electronics,22500.0
+254,2023-09-01,West,Home & Kitchen,9000.0
+255,2023-09-01,West,Apparel,9200.0
+256,2023-09-01,West,Sports & Outdoors,10300.0
+257,2023-09-01,West,Beauty,2000.0
+258,2023-09-01,West,Toys,2700.0
+259,2023-09-01,Prairies,Electronics,30000.0
+260,2023-09-01,Prairies,Home & Kitchen,8600.0
+261,2023-09-01,Prairies,Apparel,12300.0
+262,2023-09-01,Prairies,Sports & Outdoors,6500.0
+263,2023-09-01,Prairies,Beauty,3200.0
+264,2023-09-01,Prairies,Toys,2500.0
+265,2023-09-01,Atlantic,Electronics,11100.0
+266,2023-09-01,Atlantic,Home & Kitchen,3200.0
+267,2023-09-01,Atlantic,Apparel,6400.0
+268,2023-09-01,Atlantic,Sports & Outdoors,3400.0
+269,2023-09-01,Atlantic,Beauty,800.0
+270,2023-09-01,Atlantic,Toys,800.0
+271,2023-10-01,Ontario,Electronics,45700.0
+272,2023-10-01,Ontario,Home & Kitchen,24800.0
+273,2023-10-01,Ontario,Apparel,38600.0
+274,2023-10-01,Ontario,Sports & Outdoors,17400.0
+275,2023-10-01,Ontario,Beauty,8500.0
+276,2023-10-01,Ontario,Toys,5300.0
+277,2023-10-01,Quebec,Electronics,38300.0
+278,2023-10-01,Quebec,Home & Kitchen,10700.0
+279,2023-10-01,Quebec,Apparel,21600.0
+280,2023-10-01,Quebec,Sports & Outdoors,7800.0
+281,2023-10-01,Quebec,Beauty,4900.0
+282,2023-10-01,Quebec,Toys,1900.0
+283,2023-10-01,West,Electronics,19400.0
+284,2023-10-01,West,Home & Kitchen,11700.0
+285,2023-10-01,West,Apparel,18200.0
+286,2023-10-01,West,Sports & Outdoors,10000.0
+287,2023-10-01,West,Beauty,3000.0
+288,2023-10-01,West,Toys,2900.0
+289,2023-10-01,Prairies,Electronics,20200.0
+290,2023-10-01,Prairies,Home & Kitchen,13600.0
+291,2023-10-01,Prairies,Apparel,17200.0
+292,2023-10-01,Prairies,Sports & Outdoors,12000.0
+293,2023-10-01,Prairies,Beauty,3600.0
+294,2023-10-01,Prairies,Toys,3900.0
+295,2023-10-01,Atlantic,Electronics,11400.0
+296,2023-10-01,Atlantic,Home & Kitchen,4400.0
+297,2023-10-01,Atlantic,Apparel,4800.0
+298,2023-10-01,Atlantic,Sports & Outdoors,3700.0
+299,2023-10-01,Atlantic,Beauty,1400.0
+300,2023-10-01,Atlantic,Toys,1000.0
+301,2023-11-01,Ontario,Electronics,113700.0
+302,2023-11-01,Ontario,Home & Kitchen,28000.0
+303,2023-11-01,Ontario,Apparel,42700.0
+304,2023-11-01,Ontario,Sports & Outdoors,36700.0
+305,2023-11-01,Ontario,Beauty,8300.0
+306,2023-11-01,Ontario,Toys,13000.0
+307,2023-11-01,Quebec,Electronics,48400.0
+308,2023-11-01,Quebec,Home & Kitchen,15100.0
+309,2023-11-01,Quebec,Apparel,22000.0
+310,2023-11-01,Quebec,Sports & Outdoors,15900.0
+311,2023-11-01,Quebec,Beauty,4200.0
+312,2023-11-01,Quebec,Toys,7800.0
+313,2023-11-01,West,Electronics,36200.0
+314,2023-11-01,West,Home & Kitchen,14400.0
+315,2023-11-01,West,Apparel,19700.0
+316,2023-11-01,West,Sports & Outdoors,10000.0
+317,2023-11-01,West,Beauty,4300.0
+318,2023-11-01,West,Toys,4500.0
+319,2023-11-01,Prairies,Electronics,51300.0
+320,2023-11-01,Prairies,Home & Kitchen,14400.0
+321,2023-11-01,Prairies,Apparel,20700.0
+322,2023-11-01,Prairies,Sports & Outdoors,11000.0
+323,2023-11-01,Prairies,Beauty,4100.0
+324,2023-11-01,Prairies,Toys,6200.0
+325,2023-11-01,Atlantic,Electronics,26400.0
+326,2023-11-01,Atlantic,Home & Kitchen,4400.0
+327,2023-11-01,Atlantic,Apparel,10200.0
+328,2023-11-01,Atlantic,Sports & Outdoors,4800.0
+329,2023-11-01,Atlantic,Beauty,1600.0
+330,2023-11-01,Atlantic,Toys,2800.0
+331,2023-12-01,Ontario,Electronics,166600.0
+332,2023-12-01,Ontario,Home & Kitchen,39400.0
+333,2023-12-01,Ontario,Apparel,59300.0
+334,2023-12-01,Ontario,Sports & Outdoors,57500.0
+335,2023-12-01,Ontario,Beauty,13800.0
+336,2023-12-01,Ontario,Toys,25500.0
+337,2023-12-01,Quebec,Electronics,78000.0
+338,2023-12-01,Quebec,Home & Kitchen,25400.0
+339,2023-12-01,Quebec,Apparel,32100.0
+340,2023-12-01,Quebec,Sports & Outdoors,32900.0
+341,2023-12-01,Quebec,Beauty,8800.0
+342,2023-12-01,Quebec,Toys,12000.0
+343,2023-12-01,West,Electronics,52800.0
+344,2023-12-01,West,Home & Kitchen,14900.0
+345,2023-12-01,West,Apparel,24000.0
+346,2023-12-01,West,Sports & Outdoors,23300.0
+347,2023-12-01,West,Beauty,6700.0
+348,2023-12-01,West,Toys,8800.0
+349,2023-12-01,Prairies,Electronics,80500.0
+350,2023-12-01,Prairies,Home & Kitchen,17700.0
+351,2023-12-01,Prairies,Apparel,26600.0
+352,2023-12-01,Prairies,Sports & Outdoors,24900.0
+353,2023-12-01,Prairies,Beauty,6900.0
+354,2023-12-01,Prairies,Toys,12600.0
+355,2023-12-01,Atlantic,Electronics,27200.0
+356,2023-12-01,Atlantic,Home & Kitchen,8900.0
+357,2023-12-01,Atlantic,Apparel,12500.0
+358,2023-12-01,Atlantic,Sports & Outdoors,6700.0
+359,2023-12-01,Atlantic,Beauty,2600.0
+360,2023-12-01,Atlantic,Toys,4200.0
+361,2024-01-01,Ontario,Electronics,35600.0
+362,2024-01-01,Ontario,Home & Kitchen,17500.0
+363,2024-01-01,Ontario,Apparel,30900.0
+364,2024-01-01,Ontario,Sports & Outdoors,33500.0
+365,2024-01-01,Ontario,Beauty,6900.0
+366,2024-01-01,Ontario,Toys,1900.0
+367,2024-01-01,Quebec,Electronics,25100.0
+368,2024-01-01,Quebec,Home & Kitchen,9300.0
+369,2024-01-01,Quebec,Apparel,15100.0
+370,2024-01-01,Quebec,Sports & Outdoors,18100.0
+371,2024-01-01,Quebec,Beauty,4000.0
+372,2024-01-01,Quebec,Toys,1400.0
+373,2024-01-01,West,Electronics,19600.0
+374,2024-01-01,West,Home & Kitchen,7400.0
+375,2024-01-01,West,Apparel,12200.0
+376,2024-01-01,West,Sports & Outdoors,18300.0
+377,2024-01-01,West,Beauty,2700.0
+378,2024-01-01,West,Toys,1700.0
+379,2024-01-01,Prairies,Electronics,12700.0
+380,2024-01-01,Prairies,Home & Kitchen,9100.0
+381,2024-01-01,Prairies,Apparel,12800.0
+382,2024-01-01,Prairies,Sports & Outdoors,15600.0
+383,2024-01-01,Prairies,Beauty,3000.0
+384,2024-01-01,Prairies,Toys,1700.0
+385,2024-01-01,Atlantic,Electronics,7400.0
+386,2024-01-01,Atlantic,Home & Kitchen,4500.0
+387,2024-01-01,Atlantic,Apparel,3700.0
+388,2024-01-01,Atlantic,Sports & Outdoors,6600.0
+389,2024-01-01,Atlantic,Beauty,800.0
+390,2024-01-01,Atlantic,Toys,200.0
+391,2024-02-01,Ontario,Electronics,34300.0
+392,2024-02-01,Ontario,Home & Kitchen,19500.0
+393,2024-02-01,Ontario,Apparel,21300.0
+394,2024-02-01,Ontario,Sports & Outdoors,27500.0
+395,2024-02-01,Ontario,Beauty,7400.0
+396,2024-02-01,Ontario,Toys,3000.0
+397,2024-02-01,Quebec,Electronics,25500.0
+398,2024-02-01,Quebec,Home & Kitchen,11400.0
+399,2024-02-01,Quebec,Apparel,10800.0
+400,2024-02-01,Quebec,Sports & Outdoors,14300.0
+401,2024-02-01,Quebec,Beauty,3600.0
+402,2024-02-01,Quebec,Toys,1900.0
+403,2024-02-01,West,Electronics,20500.0
+404,2024-02-01,West,Home & Kitchen,9300.0
+405,2024-02-01,West,Apparel,9500.0
+406,2024-02-01,West,Sports & Outdoors,15300.0
+407,2024-02-01,West,Beauty,3000.0
+408,2024-02-01,West,Toys,1100.0
+409,2024-02-01,Prairies,Electronics,12300.0
+410,2024-02-01,Prairies,Home & Kitchen,7100.0
+411,2024-02-01,Prairies,Apparel,8900.0
+412,2024-02-01,Prairies,Sports & Outdoors,10000.0
+413,2024-02-01,Prairies,Beauty,2600.0
+414,2024-02-01,Prairies,Toys,1300.0
+415,2024-02-01,Atlantic,Electronics,7400.0
+416,2024-02-01,Atlantic,Home & Kitchen,3300.0
+417,2024-02-01,Atlantic,Apparel,2900.0
+418,2024-02-01,Atlantic,Sports & Outdoors,4300.0
+419,2024-02-01,Atlantic,Beauty,1300.0
+420,2024-02-01,Atlantic,Toys,400.0
+421,2024-03-01,Ontario,Electronics,39300.0
+422,2024-03-01,Ontario,Home & Kitchen,25100.0
+423,2024-03-01,Ontario,Apparel,23700.0
+424,2024-03-01,Ontario,Sports & Outdoors,27200.0
+425,2024-03-01,Ontario,Beauty,6700.0
+426,2024-03-01,Ontario,Toys,5400.0
+427,2024-03-01,Quebec,Electronics,28300.0
+428,2024-03-01,Quebec,Home & Kitchen,11500.0
+429,2024-03-01,Quebec,Apparel,14500.0
+430,2024-03-01,Quebec,Sports & Outdoors,17800.0
+431,2024-03-01,Quebec,Beauty,4700.0
+432,2024-03-01,Quebec,Toys,2900.0
+433,2024-03-01,West,Electronics,21700.0
+434,2024-03-01,West,Home & Kitchen,7200.0
+435,2024-03-01,West,Apparel,10600.0
+436,2024-03-01,West,Sports & Outdoors,12300.0
+437,2024-03-01,West,Beauty,2700.0
+438,2024-03-01,West,Toys,2200.0
+439,2024-03-01,Prairies,Electronics,26300.0
+440,2024-03-01,Prairies,Home & Kitchen,11200.0
+441,2024-03-01,Prairies,Apparel,11000.0
+442,2024-03-01,Prairies,Sports & Outdoors,12000.0
+443,2024-03-01,Prairies,Beauty,3500.0
+444,2024-03-01,Prairies,Toys,2600.0
+445,2024-03-01,Atlantic,Electronics,10000.0
+446,2024-03-01,Atlantic,Home & Kitchen,3700.0
+447,2024-03-01,Atlantic,Apparel,2900.0
+448,2024-03-01,Atlantic,Sports & Outdoors,6200.0
+449,2024-03-01,Atlantic,Beauty,1300.0
+450,2024-03-01,Atlantic,Toys,600.0
+451,2024-04-01,Ontario,Electronics,54400.0
+452,2024-04-01,Ontario,Home & Kitchen,25800.0
+453,2024-04-01,Ontario,Apparel,20200.0
+454,2024-04-01,Ontario,Sports & Outdoors,23500.0
+455,2024-04-01,Ontario,Beauty,7900.0
+456,2024-04-01,Ontario,Toys,7700.0
+457,2024-04-01,Quebec,Electronics,30900.0
+458,2024-04-01,Quebec,Home & Kitchen,15600.0
+459,2024-04-01,Quebec,Apparel,13700.0
+460,2024-04-01,Quebec,Sports & Outdoors,13100.0
+461,2024-04-01,Quebec,Beauty,4900.0
+462,2024-04-01,Quebec,Toys,3300.0
+463,2024-04-01,West,Electronics,16200.0
+464,2024-04-01,West,Home & Kitchen,12300.0
+465,2024-04-01,West,Apparel,5800.0
+466,2024-04-01,West,Sports & Outdoors,10000.0
+467,2024-04-01,West,Beauty,2300.0
+468,2024-04-01,West,Toys,2000.0
+469,2024-04-01,Prairies,Electronics,19000.0
+470,2024-04-01,Prairies,Home & Kitchen,9700.0
+471,2024-04-01,Prairies,Apparel,8400.0
+472,2024-04-01,Prairies,Sports & Outdoors,9700.0
+473,2024-04-01,Prairies,Beauty,2700.0
+474,2024-04-01,Prairies,Toys,2500.0
+475,2024-04-01,Atlantic,Electronics,4600.0
+476,2024-04-01,Atlantic,Home & Kitchen,2600.0
+477,2024-04-01,Atlantic,Apparel,2800.0
+478,2024-04-01,Atlantic,Sports & Outdoors,3800.0
+479,2024-04-01,Atlantic,Beauty,500.0
+480,2024-04-01,Atlantic,Toys,1200.0
+481,2024-05-01,Ontario,Electronics,60100.0
+482,2024-05-01,Ontario,Home & Kitchen,28700.0
+483,2024-05-01,Ontario,Apparel,16100.0
+484,2024-05-01,Ontario,Sports & Outdoors,37800.0
+485,2024-05-01,Ontario,Beauty,8200.0
+486,2024-05-01,Ontario,Toys,8800.0
+487,2024-05-01,Quebec,Electronics,29600.0
+488,2024-05-01,Quebec,Home & Kitchen,18800.0
+489,2024-05-01,Quebec,Apparel,8200.0
+490,2024-05-01,Quebec,Sports & Outdoors,15000.0
+491,2024-05-01,Quebec,Beauty,4900.0
+492,2024-05-01,Quebec,Toys,4400.0
+493,2024-05-01,West,Electronics,15400.0
+494,2024-05-01,West,Home & Kitchen,7800.0
+495,2024-05-01,West,Apparel,6000.0
+496,2024-05-01,West,Sports & Outdoors,27200.0
+497,2024-05-01,West,Beauty,4500.0
+498,2024-05-01,West,Toys,3300.0
+499,2024-05-01,Prairies,Electronics,20400.0
+500,2024-05-01,Prairies,Home & Kitchen,11900.0
+501,2024-05-01,Prairies,Apparel,8200.0
+502,2024-05-01,Prairies,Sports & Outdoors,16600.0
+503,2024-05-01,Prairies,Beauty,4200.0
+504,2024-05-01,Prairies,Toys,3200.0
+505,2024-05-01,Atlantic,Electronics,9300.0
+506,2024-05-01,Atlantic,Home & Kitchen,3900.0
+507,2024-05-01,Atlantic,Apparel,2900.0
+508,2024-05-01,Atlantic,Sports & Outdoors,3500.0
+509,2024-05-01,Atlantic,Beauty,1500.0
+510,2024-05-01,Atlantic,Toys,1400.0
+511,2024-06-01,Ontario,Electronics,62900.0
+512,2024-06-01,Ontario,Home & Kitchen,34100.0
+513,2024-06-01,Ontario,Apparel,16800.0
+514,2024-06-01,Ontario,Sports & Outdoors,41900.0
+515,2024-06-01,Ontario,Beauty,8500.0
+516,2024-06-01,Ontario,Toys,6200.0
+517,2024-06-01,Quebec,Electronics,20900.0
+518,2024-06-01,Quebec,Home & Kitchen,12200.0
+519,2024-06-01,Quebec,Apparel,7300.0
+520,2024-06-01,Quebec,Sports & Outdoors,17500.0
+521,2024-06-01,Quebec,Beauty,4500.0
+522,2024-06-01,Quebec,Toys,2600.0
+523,2024-06-01,West,Electronics,12400.0
+524,2024-06-01,West,Home & Kitchen,13100.0
+525,2024-06-01,West,Apparel,6500.0
+526,2024-06-01,West,Sports & Outdoors,20900.0
+527,2024-06-01,West,Beauty,2800.0
+528,2024-06-01,West,Toys,2600.0
+529,2024-06-01,Prairies,Electronics,32200.0
+530,2024-06-01,Prairies,Home & Kitchen,12600.0
+531,2024-06-01,Prairies,Apparel,9100.0
+532,2024-06-01,Prairies,Sports & Outdoors,15800.0
+533,2024-06-01,Prairies,Beauty,3900.0
+534,2024-06-01,Prairies,Toys,3100.0
+535,2024-06-01,Atlantic,Electronics,7800.0
+536,2024-06-01,Atlantic,Home & Kitchen,4500.0
+537,2024-06-01,Atlantic,Apparel,2900.0
+538,2024-06-01,Atlantic,Sports & Outdoors,10300.0
+539,2024-06-01,Atlantic,Beauty,1000.0
+540,2024-06-01,Atlantic,Toys,1100.0
+541,2024-07-01,Ontario,Electronics,69500.0
+542,2024-07-01,Ontario,Home & Kitchen,26900.0
+543,2024-07-01,Ontario,Apparel,14300.0
+544,2024-07-01,Ontario,Sports & Outdoors,43000.0
+545,2024-07-01,Ontario,Beauty,8400.0
+546,2024-07-01,Ontario,Toys,8200.0
+547,2024-07-01,Quebec,Electronics,32100.0
+548,2024-07-01,Quebec,Home & Kitchen,15500.0
+549,2024-07-01,Quebec,Apparel,8800.0
+550,2024-07-01,Quebec,Sports & Outdoors,21100.0
+551,2024-07-01,Quebec,Beauty,5100.0
+552,2024-07-01,Quebec,Toys,3800.0
+553,2024-07-01,West,Electronics,31600.0
+554,2024-07-01,West,Home & Kitchen,13300.0
+555,2024-07-01,West,Apparel,5600.0
+556,2024-07-01,West,Sports & Outdoors,18400.0
+557,2024-07-01,West,Beauty,2900.0
+558,2024-07-01,West,Toys,4500.0
+559,2024-07-01,Prairies,Electronics,40500.0
+560,2024-07-01,Prairies,Home & Kitchen,14300.0
+561,2024-07-01,Prairies,Apparel,10700.0
+562,2024-07-01,Prairies,Sports & Outdoors,23100.0
+563,2024-07-01,Prairies,Beauty,4700.0
+564,2024-07-01,Prairies,Toys,3800.0
+565,2024-07-01,Atlantic,Electronics,3900.0
+566,2024-07-01,Atlantic,Home & Kitchen,5900.0
+567,2024-07-01,Atlantic,Apparel,1900.0
+568,2024-07-01,Atlantic,Sports & Outdoors,6800.0
+569,2024-07-01,Atlantic,Beauty,1200.0
+570,2024-07-01,Atlantic,Toys,1400.0
+571,2024-08-01,Ontario,Electronics,58000.0
+572,2024-08-01,Ontario,Home & Kitchen,36200.0
+573,2024-08-01,Ontario,Apparel,32400.0
+574,2024-08-01,Ontario,Sports & Outdoors,40800.0
+575,2024-08-01,Ontario,Beauty,9400.0
+576,2024-08-01,Ontario,Toys,7800.0
+577,2024-08-01,Quebec,Electronics,48900.0
+578,2024-08-01,Quebec,Home & Kitchen,16100.0
+579,2024-08-01,Quebec,Apparel,17200.0
+580,2024-08-01,Quebec,Sports & Outdoors,23500.0
+581,2024-08-01,Quebec,Beauty,4600.0
+582,2024-08-01,Quebec,Toys,5000.0
+583,2024-08-01,West,Electronics,19400.0
+584,2024-08-01,West,Home & Kitchen,18300.0
+585,2024-08-01,West,Apparel,10400.0
+586,2024-08-01,West,Sports & Outdoors,20500.0
+587,2024-08-01,West,Beauty,3700.0
+588,2024-08-01,West,Toys,3600.0
+589,2024-08-01,Prairies,Electronics,29600.0
+590,2024-08-01,Prairies,Home & Kitchen,11800.0
+591,2024-08-01,Prairies,Apparel,14200.0
+592,2024-08-01,Prairies,Sports & Outdoors,14100.0
+593,2024-08-01,Prairies,Beauty,4200.0
+594,2024-08-01,Prairies,Toys,3000.0
+595,2024-08-01,Atlantic,Electronics,10000.0
+596,2024-08-01,Atlantic,Home & Kitchen,5600.0
+597,2024-08-01,Atlantic,Apparel,4800.0
+598,2024-08-01,Atlantic,Sports & Outdoors,5700.0
+599,2024-08-01,Atlantic,Beauty,1800.0
+600,2024-08-01,Atlantic,Toys,1000.0
+601,2024-09-01,Ontario,Electronics,55000.0
+602,2024-09-01,Ontario,Home & Kitchen,32900.0
+603,2024-09-01,Ontario,Apparel,34500.0
+604,2024-09-01,Ontario,Sports & Outdoors,26800.0
+605,2024-09-01,Ontario,Beauty,11000.0
+606,2024-09-01,Ontario,Toys,7700.0
+607,2024-09-01,Quebec,Electronics,25800.0
+608,2024-09-01,Quebec,Home & Kitchen,15700.0
+609,2024-09-01,Quebec,Apparel,15600.0
+610,2024-09-01,Quebec,Sports & Outdoors,13900.0
+611,2024-09-01,Quebec,Beauty,5200.0
+612,2024-09-01,Quebec,Toys,4400.0
+613,2024-09-01,West,Electronics,22700.0
+614,2024-09-01,West,Home & Kitchen,12800.0
+615,2024-09-01,West,Apparel,14000.0
+616,2024-09-01,West,Sports & Outdoors,11100.0
+617,2024-09-01,West,Beauty,3800.0
+618,2024-09-01,West,Toys,2800.0
+619,2024-09-01,Prairies,Electronics,35900.0
+620,2024-09-01,Prairies,Home & Kitchen,10700.0
+621,2024-09-01,Prairies,Apparel,15600.0
+622,2024-09-01,Prairies,Sports & Outdoors,8500.0
+623,2024-09-01,Prairies,Beauty,4000.0
+624,2024-09-01,Prairies,Toys,3100.0
+625,2024-09-01,Atlantic,Electronics,10600.0
+626,2024-09-01,Atlantic,Home & Kitchen,5300.0
+627,2024-09-01,Atlantic,Apparel,5300.0
+628,2024-09-01,Atlantic,Sports & Outdoors,4100.0
+629,2024-09-01,Atlantic,Beauty,1400.0
+630,2024-09-01,Atlantic,Toys,1000.0
+631,2024-10-01,Ontario,Electronics,67000.0
+632,2024-10-01,Ontario,Home & Kitchen,26100.0
+633,2024-10-01,Ontario,Apparel,39600.0
+634,2024-10-01,Ontario,Sports & Outdoors,21000.0
+635,2024-10-01,Ontario,Beauty,8300.0
+636,2024-10-01,Ontario,Toys,8400.0
+637,2024-10-01,Quebec,Electronics,30300.0
+638,2024-10-01,Quebec,Home & Kitchen,16400.0
+639,2024-10-01,Quebec,Apparel,23400.0
+640,2024-10-01,Quebec,Sports & Outdoors,8500.0
+641,2024-10-01,Quebec,Beauty,5400.0
+642,2024-10-01,Quebec,Toys,4000.0
+643,2024-10-01,West,Electronics,20800.0
+644,2024-10-01,West,Home & Kitchen,11500.0
+645,2024-10-01,West,Apparel,12600.0
+646,2024-10-01,West,Sports & Outdoors,12700.0
+647,2024-10-01,West,Beauty,3500.0
+648,2024-10-01,West,Toys,2300.0
+649,2024-10-01,Prairies,Electronics,23400.0
+650,2024-10-01,Prairies,Home & Kitchen,14500.0
+651,2024-10-01,Prairies,Apparel,20200.0
+652,2024-10-01,Prairies,Sports & Outdoors,14900.0
+653,2024-10-01,Prairies,Beauty,3900.0
+654,2024-10-01,Prairies,Toys,4500.0
+655,2024-10-01,Atlantic,Electronics,10300.0
+656,2024-10-01,Atlantic,Home & Kitchen,5400.0
+657,2024-10-01,Atlantic,Apparel,6200.0
+658,2024-10-01,Atlantic,Sports & Outdoors,5900.0
+659,2024-10-01,Atlantic,Beauty,1300.0
+660,2024-10-01,Atlantic,Toys,1700.0
+661,2024-11-01,Ontario,Electronics,132100.0
+662,2024-11-01,Ontario,Home & Kitchen,35700.0
+663,2024-11-01,Ontario,Apparel,55600.0
+664,2024-11-01,Ontario,Sports & Outdoors,34500.0
+665,2024-11-01,Ontario,Beauty,13600.0
+666,2024-11-01,Ontario,Toys,15800.0
+667,2024-11-01,Quebec,Electronics,61500.0
+668,2024-11-01,Quebec,Home & Kitchen,19200.0
+669,2024-11-01,Quebec,Apparel,30700.0
+670,2024-11-01,Quebec,Sports & Outdoors,24800.0
+671,2024-11-01,Quebec,Beauty,5700.0
+672,2024-11-01,Quebec,Toys,7700.0
+673,2024-11-01,West,Electronics,45100.0
+674,2024-11-01,West,Home & Kitchen,13800.0
+675,2024-11-01,West,Apparel,22400.0
+676,2024-11-01,West,Sports & Outdoors,15300.0
+677,2024-11-01,West,Beauty,3500.0
+678,2024-11-01,West,Toys,5300.0
+679,2024-11-01,Prairies,Electronics,66400.0
+680,2024-11-01,Prairies,Home & Kitchen,17200.0
+681,2024-11-01,Prairies,Apparel,24100.0
+682,2024-11-01,Prairies,Sports & Outdoors,14000.0
+683,2024-11-01,Prairies,Beauty,5200.0
+684,2024-11-01,Prairies,Toys,7700.0
+685,2024-11-01,Atlantic,Electronics,13100.0
+686,2024-11-01,Atlantic,Home & Kitchen,8600.0
+687,2024-11-01,Atlantic,Apparel,9800.0
+688,2024-11-01,Atlantic,Sports & Outdoors,5200.0
+689,2024-11-01,Atlantic,Beauty,1200.0
+690,2024-11-01,Atlantic,Toys,2700.0
+691,2024-12-01,Ontario,Electronics,200600.0
+692,2024-12-01,Ontario,Home & Kitchen,62700.0
+693,2024-12-01,Ontario,Apparel,69500.0
+694,2024-12-01,Ontario,Sports & Outdoors,69100.0
+695,2024-12-01,Ontario,Beauty,22700.0
+696,2024-12-01,Ontario,Toys,31900.0
+697,2024-12-01,Quebec,Electronics,110600.0
+698,2024-12-01,Quebec,Home & Kitchen,24500.0
+699,2024-12-01,Quebec,Apparel,38800.0
+700,2024-12-01,Quebec,Sports & Outdoors,34400.0
+701,2024-12-01,Quebec,Beauty,10500.0
+702,2024-12-01,Quebec,Toys,15400.0
+703,2024-12-01,West,Electronics,65900.0
+704,2024-12-01,West,Home & Kitchen,19800.0
+705,2024-12-01,West,Apparel,28100.0
+706,2024-12-01,West,Sports & Outdoors,37100.0
+707,2024-12-01,West,Beauty,8600.0
+708,2024-12-01,West,Toys,13400.0
+709,2024-12-01,Prairies,Electronics,96100.0
+710,2024-12-01,Prairies,Home & Kitchen,23600.0
+711,2024-12-01,Prairies,Apparel,37000.0
+712,2024-12-01,Prairies,Sports & Outdoors,31400.0
+713,2024-12-01,Prairies,Beauty,9400.0
+714,2024-12-01,Prairies,Toys,15900.0
+715,2024-12-01,Atlantic,Electronics,37600.0
+716,2024-12-01,Atlantic,Home & Kitchen,9000.0
+717,2024-12-01,Atlantic,Apparel,11500.0
+718,2024-12-01,Atlantic,Sports & Outdoors,15300.0
+719,2024-12-01,Atlantic,Beauty,3600.0
+720,2024-12-01,Atlantic,Toys,5300.0
+721,2025-01-01,Ontario,Electronics,38800.0
+722,2025-01-01,Ontario,Home & Kitchen,25600.0
+723,2025-01-01,Ontario,Apparel,38100.0
+724,2025-01-01,Ontario,Sports & Outdoors,39800.0
+725,2025-01-01,Ontario,Beauty,8600.0
+726,2025-01-01,Ontario,Toys,4900.0
+727,2025-01-01,Quebec,Electronics,34300.0
+728,2025-01-01,Quebec,Home & Kitchen,15500.0
+729,2025-01-01,Quebec,Apparel,17000.0
+730,2025-01-01,Quebec,Sports & Outdoors,17600.0
+731,2025-01-01,Quebec,Beauty,4600.0
+732,2025-01-01,Quebec,Toys,1600.0
+733,2025-01-01,West,Electronics,20900.0
+734,2025-01-01,West,Home & Kitchen,10100.0
+735,2025-01-01,West,Apparel,13700.0
+736,2025-01-01,West,Sports & Outdoors,31600.0
+737,2025-01-01,West,Beauty,2800.0
+738,2025-01-01,West,Toys,1000.0
+739,2025-01-01,Prairies,Electronics,23700.0
+740,2025-01-01,Prairies,Home & Kitchen,10700.0
+741,2025-01-01,Prairies,Apparel,13700.0
+742,2025-01-01,Prairies,Sports & Outdoors,18100.0
+743,2025-01-01,Prairies,Beauty,4700.0
+744,2025-01-01,Prairies,Toys,1900.0
+745,2025-01-01,Atlantic,Electronics,9300.0
+746,2025-01-01,Atlantic,Home & Kitchen,6200.0
+747,2025-01-01,Atlantic,Apparel,6700.0
+748,2025-01-01,Atlantic,Sports & Outdoors,7400.0
+749,2025-01-01,Atlantic,Beauty,1500.0
+750,2025-01-01,Atlantic,Toys,800.0
+751,2025-02-01,Ontario,Electronics,33500.0
+752,2025-02-01,Ontario,Home & Kitchen,26900.0
+753,2025-02-01,Ontario,Apparel,20400.0
+754,2025-02-01,Ontario,Sports & Outdoors,28800.0
+755,2025-02-01,Ontario,Beauty,8600.0
+756,2025-02-01,Ontario,Toys,3000.0
+757,2025-02-01,Quebec,Electronics,21800.0
+758,2025-02-01,Quebec,Home & Kitchen,15000.0
+759,2025-02-01,Quebec,Apparel,15000.0
+760,2025-02-01,Quebec,Sports & Outdoors,22100.0
+761,2025-02-01,Quebec,Beauty,5200.0
+762,2025-02-01,Quebec,Toys,1400.0
+763,2025-02-01,West,Electronics,13600.0
+764,2025-02-01,West,Home & Kitchen,10200.0
+765,2025-02-01,West,Apparel,9000.0
+766,2025-02-01,West,Sports & Outdoors,16500.0
+767,2025-02-01,West,Beauty,2300.0
+768,2025-02-01,West,Toys,800.0
+769,2025-02-01,Prairies,Electronics,26200.0
+770,2025-02-01,Prairies,Home & Kitchen,7700.0
+771,2025-02-01,Prairies,Apparel,9300.0
+772,2025-02-01,Prairies,Sports & Outdoors,11800.0
+773,2025-02-01,Prairies,Beauty,3000.0
+774,2025-02-01,Prairies,Toys,1500.0
+775,2025-02-01,Atlantic,Electronics,7600.0
+776,2025-02-01,Atlantic,Home & Kitchen,3600.0
+777,2025-02-01,Atlantic,Apparel,3100.0
+778,2025-02-01,Atlantic,Sports & Outdoors,3200.0
+779,2025-02-01,Atlantic,Beauty,1500.0
+780,2025-02-01,Atlantic,Toys,500.0
+781,2025-03-01,Ontario,Electronics,50500.0
+782,2025-03-01,Ontario,Home & Kitchen,30200.0
+783,2025-03-01,Ontario,Apparel,27100.0
+784,2025-03-01,Ontario,Sports & Outdoors,24700.0
+785,2025-03-01,Ontario,Beauty,9100.0
+786,2025-03-01,Ontario,Toys,6400.0
+787,2025-03-01,Quebec,Electronics,40500.0
+788,2025-03-01,Quebec,Home & Kitchen,18400.0
+789,2025-03-01,Quebec,Apparel,18700.0
+790,2025-03-01,Quebec,Sports & Outdoors,15300.0
+791,2025-03-01,Quebec,Beauty,7300.0
+792,2025-03-01,Quebec,Toys,5000.0
+793,2025-03-01,West,Electronics,33900.0
+794,2025-03-01,West,Home & Kitchen,9000.0
+795,2025-03-01,West,Apparel,9300.0
+796,2025-03-01,West,Sports & Outdoors,16000.0
+797,2025-03-01,West,Beauty,2500.0
+798,2025-03-01,West,Toys,3500.0
+799,2025-03-01,Prairies,Electronics,27400.0
+800,2025-03-01,Prairies,Home & Kitchen,12200.0
+801,2025-03-01,Prairies,Apparel,13200.0
+802,2025-03-01,Prairies,Sports & Outdoors,16800.0
+803,2025-03-01,Prairies,Beauty,3600.0
+804,2025-03-01,Prairies,Toys,3300.0
+805,2025-03-01,Atlantic,Electronics,7300.0
+806,2025-03-01,Atlantic,Home & Kitchen,5000.0
+807,2025-03-01,Atlantic,Apparel,4200.0
+808,2025-03-01,Atlantic,Sports & Outdoors,5000.0
+809,2025-03-01,Atlantic,Beauty,1700.0
+810,2025-03-01,Atlantic,Toys,700.0
+811,2025-04-01,Ontario,Electronics,52100.0
+812,2025-04-01,Ontario,Home & Kitchen,30200.0
+813,2025-04-01,Ontario,Apparel,24100.0
+814,2025-04-01,Ontario,Sports & Outdoors,20700.0
+815,2025-04-01,Ontario,Beauty,7400.0
+816,2025-04-01,Ontario,Toys,6700.0
+817,2025-04-01,Quebec,Electronics,35600.0
+818,2025-04-01,Quebec,Home & Kitchen,16100.0
+819,2025-04-01,Quebec,Apparel,17100.0
+820,2025-04-01,Quebec,Sports & Outdoors,13700.0
+821,2025-04-01,Quebec,Beauty,5400.0
+822,2025-04-01,Quebec,Toys,4000.0
+823,2025-04-01,West,Electronics,16000.0
+824,2025-04-01,West,Home & Kitchen,9900.0
+825,2025-04-01,West,Apparel,9300.0
+826,2025-04-01,West,Sports & Outdoors,17400.0
+827,2025-04-01,West,Beauty,2100.0
+828,2025-04-01,West,Toys,2400.0
+829,2025-04-01,Prairies,Electronics,35000.0
+830,2025-04-01,Prairies,Home & Kitchen,11500.0
+831,2025-04-01,Prairies,Apparel,8200.0
+832,2025-04-01,Prairies,Sports & Outdoors,14800.0
+833,2025-04-01,Prairies,Beauty,3800.0
+834,2025-04-01,Prairies,Toys,2300.0
+835,2025-04-01,Atlantic,Electronics,12700.0
+836,2025-04-01,Atlantic,Home & Kitchen,7400.0
+837,2025-04-01,Atlantic,Apparel,6500.0
+838,2025-04-01,Atlantic,Sports & Outdoors,7100.0
+839,2025-04-01,Atlantic,Beauty,1900.0
+840,2025-04-01,Atlantic,Toys,2100.0
+841,2025-05-01,Ontario,Electronics,63900.0
+842,2025-05-01,Ontario,Home & Kitchen,28400.0
+843,2025-05-01,Ontario,Apparel,19500.0
+844,2025-05-01,Ontario,Sports & Outdoors,42900.0
+845,2025-05-01,Ontario,Beauty,13400.0
+846,2025-05-01,Ontario,Toys,6700.0
+847,2025-05-01,Quebec,Electronics,26000.0
+848,2025-05-01,Quebec,Home & Kitchen,13000.0
+849,2025-05-01,Quebec,Apparel,9300.0
+850,2025-05-01,Quebec,Sports & Outdoors,23500.0
+851,2025-05-01,Quebec,Beauty,5900.0
+852,2025-05-01,Quebec,Toys,4500.0
+853,2025-05-01,West,Electronics,29100.0
+854,2025-05-01,West,Home & Kitchen,11200.0
+855,2025-05-01,West,Apparel,8400.0
+856,2025-05-01,West,Sports & Outdoors,25200.0
+857,2025-05-01,West,Beauty,4900.0
+858,2025-05-01,West,Toys,4300.0
+859,2025-05-01,Prairies,Electronics,31000.0
+860,2025-05-01,Prairies,Home & Kitchen,12900.0
+861,2025-05-01,Prairies,Apparel,10600.0
+862,2025-05-01,Prairies,Sports & Outdoors,23300.0
+863,2025-05-01,Prairies,Beauty,4300.0
+864,2025-05-01,Prairies,Toys,3600.0
+865,2025-05-01,Atlantic,Electronics,4600.0
+866,2025-05-01,Atlantic,Home & Kitchen,5600.0
+867,2025-05-01,Atlantic,Apparel,4400.0
+868,2025-05-01,Atlantic,Sports & Outdoors,10400.0
+869,2025-05-01,Atlantic,Beauty,1700.0
+870,2025-05-01,Atlantic,Toys,1200.0
+871,2025-06-01,Ontario,Electronics,57500.0
+872,2025-06-01,Ontario,Home & Kitchen,29300.0
+873,2025-06-01,Ontario,Apparel,19700.0
+874,2025-06-01,Ontario,Sports & Outdoors,46400.0
+875,2025-06-01,Ontario,Beauty,9300.0
+876,2025-06-01,Ontario,Toys,8800.0
+877,2025-06-01,Quebec,Electronics,27600.0
+878,2025-06-01,Quebec,Home & Kitchen,18800.0
+879,2025-06-01,Quebec,Apparel,11700.0
+880,2025-06-01,Quebec,Sports & Outdoors,20200.0
+881,2025-06-01,Quebec,Beauty,5300.0
+882,2025-06-01,Quebec,Toys,4800.0
+883,2025-06-01,West,Electronics,26800.0
+884,2025-06-01,West,Home & Kitchen,10200.0
+885,2025-06-01,West,Apparel,6400.0
+886,2025-06-01,West,Sports & Outdoors,30600.0
+887,2025-06-01,West,Beauty,2700.0
+888,2025-06-01,West,Toys,2600.0
+889,2025-06-01,Prairies,Electronics,33500.0
+890,2025-06-01,Prairies,Home & Kitchen,13000.0
+891,2025-06-01,Prairies,Apparel,9000.0
+892,2025-06-01,Prairies,Sports & Outdoors,22600.0
+893,2025-06-01,Prairies,Beauty,4800.0
+894,2025-06-01,Prairies,Toys,3700.0
+895,2025-06-01,Atlantic,Electronics,16700.0
+896,2025-06-01,Atlantic,Home & Kitchen,6900.0
+897,2025-06-01,Atlantic,Apparel,3400.0
+898,2025-06-01,Atlantic,Sports & Outdoors,7000.0
+899,2025-06-01,Atlantic,Beauty,1400.0
+900,2025-06-01,Atlantic,Toys,1000.0
+901,2025-07-01,Ontario,Electronics,57800.0
+902,2025-07-01,Ontario,Home & Kitchen,35300.0
+903,2025-07-01,Ontario,Apparel,16400.0
+904,2025-07-01,Ontario,Sports & Outdoors,38000.0
+905,2025-07-01,Ontario,Beauty,9900.0
+906,2025-07-01,Ontario,Toys,10700.0
+907,2025-07-01,Quebec,Electronics,50400.0
+908,2025-07-01,Quebec,Home & Kitchen,18100.0
+909,2025-07-01,Quebec,Apparel,11100.0
+910,2025-07-01,Quebec,Sports & Outdoors,30500.0
+911,2025-07-01,Quebec,Beauty,4900.0
+912,2025-07-01,Quebec,Toys,6200.0
+913,2025-07-01,West,Electronics,23300.0
+914,2025-07-01,West,Home & Kitchen,11100.0
+915,2025-07-01,West,Apparel,7400.0
+916,2025-07-01,West,Sports & Outdoors,39800.0
+917,2025-07-01,West,Beauty,3800.0
+918,2025-07-01,West,Toys,3200.0
+919,2025-07-01,Prairies,Electronics,45900.0
+920,2025-07-01,Prairies,Home & Kitchen,16500.0
+921,2025-07-01,Prairies,Apparel,12400.0
+922,2025-07-01,Prairies,Sports & Outdoors,26500.0
+923,2025-07-01,Prairies,Beauty,5500.0
+924,2025-07-01,Prairies,Toys,4500.0
+925,2025-07-01,Atlantic,Electronics,8100.0
+926,2025-07-01,Atlantic,Home & Kitchen,6300.0
+927,2025-07-01,Atlantic,Apparel,1700.0
+928,2025-07-01,Atlantic,Sports & Outdoors,6300.0
+929,2025-07-01,Atlantic,Beauty,1600.0
+930,2025-07-01,Atlantic,Toys,1800.0
+931,2025-08-01,Ontario,Electronics,94100.0
+932,2025-08-01,Ontario,Home & Kitchen,35100.0
+933,2025-08-01,Ontario,Apparel,35000.0
+934,2025-08-01,Ontario,Sports & Outdoors,49700.0
+935,2025-08-01,Ontario,Beauty,11800.0
+936,2025-08-01,Ontario,Toys,8800.0
+937,2025-08-01,Quebec,Electronics,34800.0
+938,2025-08-01,Quebec,Home & Kitchen,22200.0
+939,2025-08-01,Quebec,Apparel,19500.0
+940,2025-08-01,Quebec,Sports & Outdoors,25700.0
+941,2025-08-01,Quebec,Beauty,6400.0
+942,2025-08-01,Quebec,Toys,5200.0
+943,2025-08-01,West,Electronics,25000.0
+944,2025-08-01,West,Home & Kitchen,16400.0
+945,2025-08-01,West,Apparel,13800.0
+946,2025-08-01,West,Sports & Outdoors,30100.0
+947,2025-08-01,West,Beauty,4900.0
+948,2025-08-01,West,Toys,3400.0
+949,2025-08-01,Prairies,Electronics,35700.0
+950,2025-08-01,Prairies,Home & Kitchen,14300.0
+951,2025-08-01,Prairies,Apparel,17600.0
+952,2025-08-01,Prairies,Sports & Outdoors,17000.0
+953,2025-08-01,Prairies,Beauty,5000.0
+954,2025-08-01,Prairies,Toys,3600.0
+955,2025-08-01,Atlantic,Electronics,9700.0
+956,2025-08-01,Atlantic,Home & Kitchen,5000.0
+957,2025-08-01,Atlantic,Apparel,6400.0
+958,2025-08-01,Atlantic,Sports & Outdoors,6800.0
+959,2025-08-01,Atlantic,Beauty,2200.0
+960,2025-08-01,Atlantic,Toys,1700.0
+961,2025-09-01,Ontario,Electronics,73100.0
+962,2025-09-01,Ontario,Home & Kitchen,29200.0
+963,2025-09-01,Ontario,Apparel,30100.0
+964,2025-09-01,Ontario,Sports & Outdoors,22500.0
+965,2025-09-01,Ontario,Beauty,10100.0
+966,2025-09-01,Ontario,Toys,8500.0
+967,2025-09-01,Quebec,Electronics,42500.0
+968,2025-09-01,Quebec,Home & Kitchen,18800.0
+969,2025-09-01,Quebec,Apparel,20700.0
+970,2025-09-01,Quebec,Sports & Outdoors,17600.0
+971,2025-09-01,Quebec,Beauty,4100.0
+972,2025-09-01,Quebec,Toys,4700.0
+973,2025-09-01,West,Electronics,24200.0
+974,2025-09-01,West,Home & Kitchen,13700.0
+975,2025-09-01,West,Apparel,11300.0
+976,2025-09-01,West,Sports & Outdoors,19400.0
+977,2025-09-01,West,Beauty,3800.0
+978,2025-09-01,West,Toys,2800.0
+979,2025-09-01,Prairies,Electronics,38600.0
+980,2025-09-01,Prairies,Home & Kitchen,12300.0
+981,2025-09-01,Prairies,Apparel,18300.0
+982,2025-09-01,Prairies,Sports & Outdoors,9700.0
+983,2025-09-01,Prairies,Beauty,4500.0
+984,2025-09-01,Prairies,Toys,3600.0
+985,2025-09-01,Atlantic,Electronics,14700.0
+986,2025-09-01,Atlantic,Home & Kitchen,5500.0
+987,2025-09-01,Atlantic,Apparel,5700.0
+988,2025-09-01,Atlantic,Sports & Outdoors,3000.0
+989,2025-09-01,Atlantic,Beauty,1600.0
+990,2025-09-01,Atlantic,Toys,1400.0
+991,2025-10-01,Ontario,Electronics,65500.0
+992,2025-10-01,Ontario,Home & Kitchen,35600.0
+993,2025-10-01,Ontario,Apparel,50100.0
+994,2025-10-01,Ontario,Sports & Outdoors,23300.0
+995,2025-10-01,Ontario,Beauty,10300.0
+996,2025-10-01,Ontario,Toys,8800.0
+997,2025-10-01,Quebec,Electronics,34500.0
+998,2025-10-01,Quebec,Home & Kitchen,18800.0
+999,2025-10-01,Quebec,Apparel,24400.0
+1000,2025-10-01,Quebec,Sports & Outdoors,14800.0
+1001,2025-10-01,Quebec,Beauty,5600.0
+1002,2025-10-01,Quebec,Toys,4800.0
+1003,2025-10-01,West,Electronics,21600.0
+1004,2025-10-01,West,Home & Kitchen,12500.0
+1005,2025-10-01,West,Apparel,18400.0
+1006,2025-10-01,West,Sports & Outdoors,18500.0
+1007,2025-10-01,West,Beauty,4100.0
+1008,2025-10-01,West,Toys,4100.0
+1009,2025-10-01,Prairies,Electronics,26700.0
+1010,2025-10-01,Prairies,Home & Kitchen,16500.0
+1011,2025-10-01,Prairies,Apparel,23600.0
+1012,2025-10-01,Prairies,Sports & Outdoors,15900.0
+1013,2025-10-01,Prairies,Beauty,4200.0
+1014,2025-10-01,Prairies,Toys,4700.0
+1015,2025-10-01,Atlantic,Electronics,6400.0
+1016,2025-10-01,Atlantic,Home & Kitchen,4600.0
+1017,2025-10-01,Atlantic,Apparel,5500.0
+1018,2025-10-01,Atlantic,Sports & Outdoors,3300.0
+1019,2025-10-01,Atlantic,Beauty,1300.0
+1020,2025-10-01,Atlantic,Toys,900.0
+1021,2025-11-01,Ontario,Electronics,132700.0
+1022,2025-11-01,Ontario,Home & Kitchen,46300.0
+1023,2025-11-01,Ontario,Apparel,56900.0
+1024,2025-11-01,Ontario,Sports & Outdoors,41900.0
+1025,2025-11-01,Ontario,Beauty,11300.0
+1026,2025-11-01,Ontario,Toys,16700.0
+1027,2025-11-01,Quebec,Electronics,58800.0
+1028,2025-11-01,Quebec,Home & Kitchen,22600.0
+1029,2025-11-01,Quebec,Apparel,36500.0
+1030,2025-11-01,Quebec,Sports & Outdoors,17500.0
+1031,2025-11-01,Quebec,Beauty,5300.0
+1032,2025-11-01,Quebec,Toys,8500.0
+1033,2025-11-01,West,Electronics,50000.0
+1034,2025-11-01,West,Home & Kitchen,18000.0
+1035,2025-11-01,West,Apparel,26500.0
+1036,2025-11-01,West,Sports & Outdoors,28500.0
+1037,2025-11-01,West,Beauty,3600.0
+1038,2025-11-01,West,Toys,6300.0
+1039,2025-11-01,Prairies,Electronics,72900.0
+1040,2025-11-01,Prairies,Home & Kitchen,18800.0
+1041,2025-11-01,Prairies,Apparel,26000.0
+1042,2025-11-01,Prairies,Sports & Outdoors,14700.0
+1043,2025-11-01,Prairies,Beauty,5700.0
+1044,2025-11-01,Prairies,Toys,8600.0
+1045,2025-11-01,Atlantic,Electronics,23000.0
+1046,2025-11-01,Atlantic,Home & Kitchen,10100.0
+1047,2025-11-01,Atlantic,Apparel,10300.0
+1048,2025-11-01,Atlantic,Sports & Outdoors,3300.0
+1049,2025-11-01,Atlantic,Beauty,2300.0
+1050,2025-11-01,Atlantic,Toys,2800.0
+1051,2025-12-01,Ontario,Electronics,203900.0
+1052,2025-12-01,Ontario,Home & Kitchen,69000.0
+1053,2025-12-01,Ontario,Apparel,81500.0
+1054,2025-12-01,Ontario,Sports & Outdoors,77500.0
+1055,2025-12-01,Ontario,Beauty,23800.0
+1056,2025-12-01,Ontario,Toys,35400.0
+1057,2025-12-01,Quebec,Electronics,97600.0
+1058,2025-12-01,Quebec,Home & Kitchen,31500.0
+1059,2025-12-01,Quebec,Apparel,45100.0
+1060,2025-12-01,Quebec,Sports & Outdoors,46300.0
+1061,2025-12-01,Quebec,Beauty,11200.0
+1062,2025-12-01,Quebec,Toys,17700.0
+1063,2025-12-01,West,Electronics,66000.0
+1064,2025-12-01,West,Home & Kitchen,20500.0
+1065,2025-12-01,West,Apparel,36200.0
+1066,2025-12-01,West,Sports & Outdoors,53200.0
+1067,2025-12-01,West,Beauty,7900.0
+1068,2025-12-01,West,Toys,13000.0
+1069,2025-12-01,Prairies,Electronics,103000.0
+1070,2025-12-01,Prairies,Home & Kitchen,26100.0
+1071,2025-12-01,Prairies,Apparel,39000.0
+1072,2025-12-01,Prairies,Sports & Outdoors,34100.0
+1073,2025-12-01,Prairies,Beauty,10200.0
+1074,2025-12-01,Prairies,Toys,17000.0
+1075,2025-12-01,Atlantic,Electronics,30400.0
+1076,2025-12-01,Atlantic,Home & Kitchen,11900.0
+1077,2025-12-01,Atlantic,Apparel,14700.0
+1078,2025-12-01,Atlantic,Sports & Outdoors,13300.0
+1079,2025-12-01,Atlantic,Beauty,3400.0
+1080,2025-12-01,Atlantic,Toys,5000.0

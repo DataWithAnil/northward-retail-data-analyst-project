@@ -1,0 +1,301 @@
+product_id,product_name,category,sub_category,brand,unit_cost,list_price,launch_date
+1,Voltara Creator Laptop Max,Electronics,Laptops,Voltara,1144.85,1598.99,2019-11-01
+2,Auralis Wireless Earbuds,Electronics,Headphones,Auralis,53.75,68.99,2021-05-01
+3,Novix Smart Speaker Lite,Electronics,Smart Home,Novix,154.24,202.99,2021-06-01
+4,"Voltara 43"" 4K TV",Electronics,TVs,Voltara,986.11,1285.99,2021-03-01
+5,Auralis Phone Case Pro,Electronics,Accessories,Auralis,31.14,40.99,2021-05-01
+6,Corvane Handheld Console,Electronics,Gaming,Corvane,42.41,55.99,2019-11-01
+7,"Auralis Laptop 15""",Electronics,Laptops,Auralis,1187.5,1678.99,2022-03-01
+8,Corvane Noise-Cancelling Headphones 2,Electronics,Headphones,Corvane,56.56,74.99,2021-10-01
+9,Pixelon Smart Speaker Plus,Electronics,Smart Home,Pixelon,172.87,225.99,2024-07-01
+10,"Novix 65"" QLED TV X",Electronics,TVs,Novix,1368.48,1949.99,2020-01-01
+11,Pixelon HDMI Cable,Electronics,Accessories,Pixelon,15.33,19.99,2021-01-01
+12,"Voltara Gaming Monitor 27""",Electronics,Gaming,Voltara,209.35,270.99,2022-07-01
+13,"Corvane Laptop 14""",Electronics,Laptops,Corvane,1046.15,1418.99,2022-04-01
+14,Corvane Sport Earbuds,Electronics,Headphones,Corvane,52.8,70.99,2021-08-01
+15,Voltara Indoor Camera Lite,Electronics,Smart Home,Voltara,113.36,159.99,2021-06-01
+16,"Voltara 65"" QLED TV",Electronics,TVs,Voltara,371.07,525.99,2022-04-01
+17,Auralis USB-C Charger 2,Electronics,Accessories,Auralis,34.73,47.99,2025-02-01
+18,Pixelon Gaming Headset,Electronics,Gaming,Pixelon,50.49,69.99,2019-02-01
+19,"Auralis Laptop 14""",Electronics,Laptops,Auralis,526.39,674.99,2019-12-01
+20,Auralis Wireless Earbuds Plus,Electronics,Headphones,Auralis,68.15,90.99,2019-11-01
+21,Corvane Video Doorbell Plus,Electronics,Smart Home,Corvane,80.13,112.99,2020-04-01
+22,"Pixelon 75"" 4K TV",Electronics,TVs,Pixelon,1153.11,1643.99,2021-11-01
+23,Novix Keyboard Lite,Electronics,Accessories,Novix,25.06,33.99,2024-02-01
+24,"Corvane Gaming Monitor 27"" 2",Electronics,Gaming,Corvane,317.19,421.99,2023-02-01
+25,Pixelon Creator Laptop Plus,Electronics,Laptops,Pixelon,527.08,737.99,2019-06-01
+26,Novix Studio Headphones,Electronics,Headphones,Novix,155.28,215.99,2022-05-01
+27,Corvane Smart Thermostat Lite,Electronics,Smart Home,Corvane,40.0,56.99,2019-04-01
+28,"Pixelon 65"" QLED TV Plus",Electronics,TVs,Pixelon,496.57,689.99,2025-08-01
+29,Novix Wireless Mouse Max,Electronics,Accessories,Novix,19.84,27.99,2019-01-01
+30,Auralis Gaming Controller,Electronics,Gaming,Auralis,424.65,547.99,2021-11-01
+31,Corvane Chromebook Lite,Electronics,Laptops,Corvane,674.26,870.99,2020-01-01
+32,Novix Noise-Cancelling Headphones 2,Electronics,Headphones,Novix,150.71,204.99,2020-10-01
+33,Auralis Smart Speaker Plus,Electronics,Smart Home,Auralis,98.99,130.99,2020-05-01
+34,"Corvane 55"" 4K TV",Electronics,TVs,Corvane,576.76,818.99,2022-02-01
+35,Pixelon USB-C Charger Pro,Electronics,Accessories,Pixelon,24.52,31.99,2020-08-01
+36,Voltara Handheld Console,Electronics,Gaming,Voltara,254.71,355.99,2023-10-01
+37,Novix Creator Laptop,Electronics,Laptops,Novix,986.33,1365.99,2021-12-01
+38,Pixelon Noise-Cancelling Headphones 2,Electronics,Headphones,Pixelon,218.36,293.99,2025-07-01
+39,Corvane Video Doorbell Plus (2),Electronics,Smart Home,Corvane,36.05,49.99,2025-10-01
+40,"Voltara 55"" 4K TV Lite",Electronics,TVs,Voltara,872.53,1141.99,2021-07-01
+41,Pixelon Keyboard,Electronics,Accessories,Pixelon,22.91,31.99,2021-02-01
+42,Pixelon Gaming Controller Pro,Electronics,Gaming,Pixelon,437.17,562.99,2022-07-01
+43,Corvane Creator Laptop Lite,Electronics,Laptops,Corvane,1024.99,1326.99,2022-01-01
+44,Voltara Wireless Earbuds 2,Electronics,Headphones,Voltara,75.43,100.99,2019-01-01
+45,Auralis Smart Thermostat,Electronics,Smart Home,Auralis,63.8,86.99,2022-03-01
+46,"Auralis 65"" QLED TV",Electronics,TVs,Auralis,636.03,856.99,2021-05-01
+47,Voltara Wireless Mouse,Electronics,Accessories,Voltara,15.82,20.99,2020-01-01
+48,"Corvane Gaming Monitor 27"" X",Electronics,Gaming,Corvane,367.13,488.99,2020-11-01
+49,Auralis Ultrabook Pro,Electronics,Laptops,Auralis,599.64,830.99,2021-07-01
+50,Corvane Sport Earbuds (2),Electronics,Headphones,Corvane,190.31,257.99,2021-03-01
+51,Auralis Smart Speaker 2,Electronics,Smart Home,Auralis,104.08,146.99,2020-05-01
+52,"Auralis 55"" 4K TV Plus",Electronics,TVs,Auralis,995.18,1409.99,2022-06-01
+53,Novix Wireless Mouse,Electronics,Accessories,Novix,12.44,16.99,2021-10-01
+54,Corvane Gaming Controller Pro,Electronics,Gaming,Corvane,264.46,341.99,2020-02-01
+55,Pixelon Creator Laptop Pro,Electronics,Laptops,Pixelon,1108.7,1461.99,2019-03-01
+56,Voltara Sport Earbuds,Electronics,Headphones,Voltara,153.17,196.99,2019-07-01
+57,Auralis Smart Thermostat Plus,Electronics,Smart Home,Auralis,98.08,135.99,2021-10-01
+58,"Auralis 65"" QLED TV Max",Electronics,TVs,Auralis,319.54,439.99,2021-09-01
+59,Novix HDMI Cable Pro,Electronics,Accessories,Novix,25.69,32.99,2021-12-01
+60,Voltara Handheld Console Lite,Electronics,Gaming,Voltara,75.86,103.99,2022-06-01
+61,Kitchora Non-Stick Fry Pan Pro,Home & Kitchen,Cookware,Kitchora,51.44,91.99,2019-01-01
+62,Dwello Blender,Home & Kitchen,Small Appliances,Dwello,65.55,126.99,2021-07-01
+63,Hearthly Sheet Set Queen,Home & Kitchen,Bedding,Hearthly,72.94,137.99,2019-05-01
+64,Kitchora Table Lamp,Home & Kitchen,Decor,Kitchora,13.44,24.99,2022-01-01
+65,Hearthly Storage Bins 3-Pack Max,Home & Kitchen,Storage,Hearthly,25.01,49.99,2021-05-01
+66,Hearthly Cast Iron Skillet,Home & Kitchen,Cookware,Hearthly,30.34,56.99,2022-07-01
+67,Dwello Air Fryer Plus,Home & Kitchen,Small Appliances,Dwello,116.99,218.99,2021-07-01
+68,Kitchora Sheet Set Queen,Home & Kitchen,Bedding,Kitchora,57.11,110.99,2019-04-01
+69,Maplecraft Wall Mirror,Home & Kitchen,Decor,Maplecraft,57.62,100.99,2020-02-01
+70,Kitchora Storage Bins 3-Pack X,Home & Kitchen,Storage,Kitchora,19.88,36.99,2022-02-01
+71,Maplecraft Dutch Oven,Home & Kitchen,Cookware,Maplecraft,95.62,187.99,2022-11-01
+72,Dwello Air Fryer Pro,Home & Kitchen,Small Appliances,Dwello,82.91,142.99,2019-09-01
+73,Hearthly Down Alternative Duvet,Home & Kitchen,Bedding,Hearthly,114.55,203.99,2020-05-01
+74,Dwello Scented Candle Set X,Home & Kitchen,Decor,Dwello,34.06,62.99,2022-11-01
+75,Dwello Storage Bins 3-Pack,Home & Kitchen,Storage,Dwello,25.51,43.99,2022-08-01
+76,Kitchora Non-Stick Fry Pan,Home & Kitchen,Cookware,Kitchora,140.77,253.99,2021-04-01
+77,Maplecraft Blender Pro,Home & Kitchen,Small Appliances,Maplecraft,232.62,428.99,2024-03-01
+78,Maplecraft Down Alternative Duvet Lite,Home & Kitchen,Bedding,Maplecraft,95.24,169.99,2025-08-01
+79,Kitchora Scented Candle Set Pro,Home & Kitchen,Decor,Kitchora,55.72,108.99,2019-03-01
+80,Dwello Food Container Set,Home & Kitchen,Storage,Dwello,23.95,45.99,2022-10-01
+81,Dwello Dutch Oven,Home & Kitchen,Cookware,Dwello,109.05,197.99,2019-10-01
+82,Kitchora Air Fryer Pro,Home & Kitchen,Small Appliances,Kitchora,174.66,306.99,2021-07-01
+83,Dwello Down Alternative Duvet,Home & Kitchen,Bedding,Dwello,80.01,146.99,2022-05-01
+84,Hearthly Throw Blanket,Home & Kitchen,Decor,Hearthly,15.35,28.99,2019-05-01
+85,Maplecraft Storage Bins 3-Pack Plus,Home & Kitchen,Storage,Maplecraft,19.38,33.99,2019-03-01
+86,Maplecraft Non-Stick Fry Pan,Home & Kitchen,Cookware,Maplecraft,122.12,240.99,2023-06-01
+87,Maplecraft Espresso Machine Plus,Home & Kitchen,Small Appliances,Maplecraft,156.12,290.99,2022-08-01
+88,Kitchora Memory Foam Pillow,Home & Kitchen,Bedding,Kitchora,28.79,56.99,2025-06-01
+89,Maplecraft Scented Candle Set Lite,Home & Kitchen,Decor,Maplecraft,27.87,52.99,2021-11-01
+90,Hearthly Closet Organizer 2,Home & Kitchen,Storage,Hearthly,19.07,34.99,2021-06-01
+91,Hearthly Dutch Oven,Home & Kitchen,Cookware,Hearthly,41.42,76.99,2021-08-01
+92,Dwello Air Fryer Pro (2),Home & Kitchen,Small Appliances,Dwello,30.25,57.99,2022-06-01
+93,Hearthly Memory Foam Pillow,Home & Kitchen,Bedding,Hearthly,96.9,185.99,2022-10-01
+94,Maplecraft Scented Candle Set Pro,Home & Kitchen,Decor,Maplecraft,23.43,40.99,2019-07-01
+95,Maplecraft Closet Organizer,Home & Kitchen,Storage,Maplecraft,14.44,25.99,2020-04-01
+96,Kitchora Dutch Oven 2,Home & Kitchen,Cookware,Kitchora,30.86,60.99,2019-06-01
+97,Kitchora Air Fryer Pro (2),Home & Kitchen,Small Appliances,Kitchora,120.1,225.99,2020-04-01
+98,Kitchora Duvet Cover Set Lite,Home & Kitchen,Bedding,Kitchora,29.85,54.99,2022-03-01
+99,Hearthly Wall Mirror,Home & Kitchen,Decor,Hearthly,35.33,66.99,2019-02-01
+100,Hearthly Storage Bins 3-Pack Max (2),Home & Kitchen,Storage,Hearthly,25.85,44.99,2019-10-01
+101,Kitchora Cast Iron Skillet Pro,Home & Kitchen,Cookware,Kitchora,33.04,58.99,2020-09-01
+102,Maplecraft Blender Pro (2),Home & Kitchen,Small Appliances,Maplecraft,37.22,65.99,2022-11-01
+103,Kitchora Down Alternative Duvet Pro,Home & Kitchen,Bedding,Kitchora,40.14,78.99,2022-03-01
+104,Dwello Wall Mirror X,Home & Kitchen,Decor,Dwello,47.74,84.99,2025-09-01
+105,Kitchora Closet Organizer Max,Home & Kitchen,Storage,Kitchora,40.76,76.99,2023-06-01
+106,Dwello Cast Iron Skillet Pro,Home & Kitchen,Cookware,Dwello,118.0,225.99,2024-12-01
+107,Dwello Air Fryer,Home & Kitchen,Small Appliances,Dwello,98.56,171.99,2024-01-01
+108,Kitchora Duvet Cover Set Pro,Home & Kitchen,Bedding,Kitchora,83.39,156.99,2021-01-01
+109,Kitchora Table Lamp Pro,Home & Kitchen,Decor,Kitchora,25.23,46.99,2021-08-01
+110,Dwello Storage Bins 3-Pack Pro,Home & Kitchen,Storage,Dwello,15.37,28.99,2021-03-01
+111,Dwello Non-Stick Fry Pan Max,Home & Kitchen,Cookware,Dwello,52.67,101.99,2019-04-01
+112,Dwello Stand Mixer 2,Home & Kitchen,Small Appliances,Dwello,72.68,141.99,2020-06-01
+113,Hearthly Duvet Cover Set,Home & Kitchen,Bedding,Hearthly,86.45,167.99,2019-04-01
+114,Maplecraft Wall Mirror Max,Home & Kitchen,Decor,Maplecraft,17.24,33.99,2019-09-01
+115,Kitchora Storage Bins 3-Pack,Home & Kitchen,Storage,Kitchora,40.12,69.99,2023-09-01
+116,Tundra & Pine Fleece Jacket 2,Apparel,Outerwear,Tundra & Pine,116.19,261.99,2020-10-01
+117,Urbanly Oxford Shirt,Apparel,Tops,Urbanly,14.39,29.99,2019-06-01
+118,Urbanly Joggers Max,Apparel,Bottoms,Urbanly,20.19,49.99,2020-09-01
+119,Fernwood Hiking Boots Plus,Apparel,Footwear,Fernwood,43.34,91.99,2021-10-01
+120,Coastline Co. Track Jacket Max,Apparel,Activewear,Coastline Co.,50.02,111.99,2021-08-01
+121,Fernwood Winter Parka Pro,Apparel,Outerwear,Fernwood,40.51,100.99,2025-04-01
+122,Fernwood Oxford Shirt,Apparel,Tops,Fernwood,12.07,26.99,2021-01-01
+123,Fernwood Chino Pants 2,Apparel,Bottoms,Fernwood,24.57,58.99,2022-06-01
+124,Tundra & Pine Running Shoes Pro,Apparel,Footwear,Tundra & Pine,44.77,101.99,2020-06-01
+125,Coastline Co. Training Tee,Apparel,Activewear,Coastline Co.,17.23,42.99,2022-10-01
+126,Fernwood Puffer Vest Max,Apparel,Outerwear,Fernwood,143.72,324.99,2020-11-01
+127,Fernwood Oxford Shirt 2,Apparel,Tops,Fernwood,11.35,24.99,2022-07-01
+128,Coastline Co. Slim Jeans Max,Apparel,Bottoms,Coastline Co.,19.46,47.99,2019-05-01
+129,Coastline Co. Running Shoes X,Apparel,Footwear,Coastline Co.,31.52,65.99,2020-09-01
+130,Urbanly Track Jacket,Apparel,Activewear,Urbanly,35.12,76.99,2020-08-01
+131,Tundra & Pine Winter Parka Max,Apparel,Outerwear,Tundra & Pine,41.31,99.99,2025-01-01
+132,Tundra & Pine Oxford Shirt Plus,Apparel,Tops,Tundra & Pine,22.85,51.99,2020-05-01
+133,Fernwood Chino Pants,Apparel,Bottoms,Fernwood,14.59,35.99,2019-07-01
+134,Coastline Co. Winter Boots,Apparel,Footwear,Coastline Co.,29.51,64.99,2019-01-01
+135,Urbanly Sports Bra,Apparel,Activewear,Urbanly,26.71,60.99,2020-09-01
+136,Urbanly Puffer Vest Lite,Apparel,Outerwear,Urbanly,108.0,255.99,2019-07-01
+137,Coastline Co. Crew Neck Tee Max,Apparel,Tops,Coastline Co.,13.13,28.99,2022-02-01
+138,Coastline Co. Slim Jeans,Apparel,Bottoms,Coastline Co.,38.46,88.99,2020-06-01
+139,Coastline Co. Hiking Boots,Apparel,Footwear,Coastline Co.,24.75,60.99,2019-07-01
+140,Tundra & Pine Track Jacket,Apparel,Activewear,Tundra & Pine,19.93,47.99,2024-06-01
+141,Fernwood Puffer Vest Pro,Apparel,Outerwear,Fernwood,134.25,328.99,2025-01-01
+142,Fernwood Knit Sweater Pro,Apparel,Tops,Fernwood,20.99,51.99,2022-01-01
+143,Tundra & Pine Chino Pants 2,Apparel,Bottoms,Tundra & Pine,15.59,37.99,2025-06-01
+144,Urbanly Hiking Boots,Apparel,Footwear,Urbanly,27.07,58.99,2021-05-01
+145,Coastline Co. Training Tee 2,Apparel,Activewear,Coastline Co.,25.15,57.99,2022-12-01
+146,Fernwood Puffer Vest Lite,Apparel,Outerwear,Fernwood,91.39,198.99,2019-03-01
+147,Coastline Co. Oxford Shirt X,Apparel,Tops,Coastline Co.,19.34,42.99,2023-09-01
+148,Urbanly Slim Jeans Plus,Apparel,Bottoms,Urbanly,28.73,60.99,2021-08-01
+149,Tundra & Pine Running Shoes Lite,Apparel,Footwear,Tundra & Pine,85.76,188.99,2020-08-01
+150,Urbanly Training Tee,Apparel,Activewear,Urbanly,15.53,33.99,2022-04-01
+151,Urbanly Puffer Vest,Apparel,Outerwear,Urbanly,78.19,171.99,2023-06-01
+152,Fernwood Hoodie,Apparel,Tops,Fernwood,13.89,31.99,2024-12-01
+153,Urbanly Joggers 2,Apparel,Bottoms,Urbanly,41.26,90.99,2021-01-01
+154,Urbanly Hiking Boots (2),Apparel,Footwear,Urbanly,33.02,75.99,2022-11-01
+155,Fernwood Training Tee Plus,Apparel,Activewear,Fernwood,14.96,33.99,2020-03-01
+156,Coastline Co. Puffer Vest,Apparel,Outerwear,Coastline Co.,157.58,392.99,2021-10-01
+157,Tundra & Pine Oxford Shirt,Apparel,Tops,Tundra & Pine,10.9,22.99,2021-03-01
+158,Tundra & Pine Slim Jeans Max,Apparel,Bottoms,Tundra & Pine,32.96,80.99,2020-02-01
+159,Fernwood Hiking Boots Max,Apparel,Footwear,Fernwood,40.18,89.99,2019-05-01
+160,Tundra & Pine Sports Bra,Apparel,Activewear,Tundra & Pine,39.32,97.99,2025-04-01
+161,Urbanly Rain Jacket,Apparel,Outerwear,Urbanly,107.07,247.99,2020-02-01
+162,Fernwood Crew Neck Tee,Apparel,Tops,Fernwood,26.77,56.99,2020-06-01
+163,Coastline Co. Joggers Max,Apparel,Bottoms,Coastline Co.,15.88,35.99,2021-09-01
+164,Fernwood Leather Sneakers,Apparel,Footwear,Fernwood,29.13,71.99,2020-10-01
+165,Fernwood Sports Bra Pro,Apparel,Activewear,Fernwood,15.7,37.99,2022-08-01
+166,Summitgear Camping Chair X,Sports & Outdoors,Camping,Summitgear,87.07,157.99,2020-03-01
+167,Summitgear Mountain Bike Max,Sports & Outdoors,Cycling,Summitgear,41.12,78.99,2025-10-01
+168,Paddleworks Yoga Mat,Sports & Outdoors,Fitness,Paddleworks,107.4,182.99,2022-06-01
+169,Paddleworks Recreational Kayak Lite,Sports & Outdoors,Water Sports,Paddleworks,128.19,245.99,2024-05-01
+170,Paddleworks Cross-Country Ski Set Max,Sports & Outdoors,Winter Sports,Paddleworks,62.97,105.99,2020-02-01
+171,Trailfox Camping Chair Lite,Sports & Outdoors,Camping,Trailfox,34.95,60.99,2021-11-01
+172,Paddleworks Mountain Bike,Sports & Outdoors,Cycling,Paddleworks,29.18,52.99,2019-12-01
+173,Trailfox Kettlebell 16kg,Sports & Outdoors,Fitness,Trailfox,17.27,32.99,2021-08-01
+174,Paddleworks Stand-Up Paddle Board,Sports & Outdoors,Water Sports,Paddleworks,64.95,117.99,2022-05-01
+175,Peakline Snowboard,Sports & Outdoors,Winter Sports,Peakline,167.35,282.99,2022-04-01
+176,Paddleworks 2-Person Tent,Sports & Outdoors,Camping,Paddleworks,30.83,53.99,2023-10-01
+177,Summitgear Bike Helmet Pro,Sports & Outdoors,Cycling,Summitgear,25.27,44.99,2019-05-01
+178,Peakline Yoga Mat,Sports & Outdoors,Fitness,Peakline,51.85,86.99,2020-12-01
+179,Peakline Stand-Up Paddle Board Pro,Sports & Outdoors,Water Sports,Peakline,158.42,265.99,2019-11-01
+180,Trailfox Cross-Country Ski Set Plus,Sports & Outdoors,Winter Sports,Trailfox,355.01,664.99,2021-02-01
+181,Summitgear Camp Stove 2,Sports & Outdoors,Camping,Summitgear,72.86,129.99,2021-05-01
+182,Trailfox Bike Lock,Sports & Outdoors,Cycling,Trailfox,170.82,293.99,2019-05-01
+183,Peakline Yoga Mat (2),Sports & Outdoors,Fitness,Peakline,15.65,29.99,2021-02-01
+184,Peakline Stand-Up Paddle Board Pro (2),Sports & Outdoors,Water Sports,Peakline,75.85,143.99,2020-04-01
+185,Paddleworks Snowshoes Pro,Sports & Outdoors,Winter Sports,Paddleworks,362.16,627.99,2020-08-01
+186,Peakline Camping Chair Max,Sports & Outdoors,Camping,Peakline,26.26,48.99,2022-03-01
+187,Peakline Bike Lock X,Sports & Outdoors,Cycling,Peakline,294.92,548.99,2021-07-01
+188,Paddleworks Kettlebell 16kg Pro,Sports & Outdoors,Fitness,Paddleworks,15.75,28.99,2024-04-01
+189,Peakline Recreational Kayak Lite,Sports & Outdoors,Water Sports,Peakline,188.29,320.99,2020-05-01
+190,Summitgear Snowboard,Sports & Outdoors,Winter Sports,Summitgear,377.89,678.99,2020-08-01
+191,Summitgear 2-Person Tent,Sports & Outdoors,Camping,Summitgear,65.84,118.99,2023-06-01
+192,Summitgear Bike Helmet X,Sports & Outdoors,Cycling,Summitgear,25.06,41.99,2022-09-01
+193,Peakline Resistance Bands Lite,Sports & Outdoors,Fitness,Peakline,26.14,44.99,2020-11-01
+194,Trailfox Stand-Up Paddle Board Max,Sports & Outdoors,Water Sports,Trailfox,94.52,159.99,2019-08-01
+195,Paddleworks Snowboard,Sports & Outdoors,Winter Sports,Paddleworks,329.81,583.99,2022-06-01
+196,Summitgear Sleeping Bag -10C Plus,Sports & Outdoors,Camping,Summitgear,168.97,312.99,2020-10-01
+197,Paddleworks Hybrid Bike,Sports & Outdoors,Cycling,Paddleworks,280.32,522.99,2022-09-01
+198,Paddleworks Kettlebell 16kg,Sports & Outdoors,Fitness,Paddleworks,13.52,25.99,2019-12-01
+199,Trailfox Recreational Kayak Pro,Sports & Outdoors,Water Sports,Trailfox,69.72,121.99,2022-06-01
+200,Peakline Ski Goggles Lite,Sports & Outdoors,Winter Sports,Peakline,179.36,299.99,2022-12-01
+201,Paddleworks Camping Chair Plus,Sports & Outdoors,Camping,Paddleworks,185.24,315.99,2022-09-01
+202,Paddleworks Bike Helmet,Sports & Outdoors,Cycling,Paddleworks,127.02,213.99,2019-05-01
+203,Trailfox Resistance Bands Plus,Sports & Outdoors,Fitness,Trailfox,16.3,30.99,2021-04-01
+204,Summitgear Life Jacket Lite,Sports & Outdoors,Water Sports,Summitgear,131.6,246.99,2020-07-01
+205,Peakline Snowboard Lite,Sports & Outdoors,Winter Sports,Peakline,94.25,157.99,2020-05-01
+206,Paddleworks Sleeping Bag -10C Lite,Sports & Outdoors,Camping,Paddleworks,155.6,293.99,2022-01-01
+207,Peakline Bike Helmet,Sports & Outdoors,Cycling,Peakline,337.02,613.99,2023-03-01
+208,Summitgear Adjustable Dumbbells Pro,Sports & Outdoors,Fitness,Summitgear,29.32,52.99,2019-01-01
+209,Trailfox Life Jacket,Sports & Outdoors,Water Sports,Trailfox,38.68,66.99,2020-08-01
+210,Peakline Cross-Country Ski Set,Sports & Outdoors,Winter Sports,Peakline,203.8,349.99,2020-06-01
+211,Purelle Gentle Cleanser,Beauty,Skincare,Purelle,10.48,27.99,2025-10-01
+212,Glowra Hydrating Conditioner,Beauty,Haircare,Glowra,21.24,55.99,2024-09-01
+213,Glowra Cologne 100ml Max,Beauty,Fragrance,Glowra,16.03,44.99,2019-07-01
+214,Velour Botanica Mascara,Beauty,Makeup,Velour Botanica,5.97,14.99,2025-10-01
+215,Purelle SPF 50 Sunscreen,Beauty,Skincare,Purelle,34.1,83.99,2020-08-01
+216,Purelle Hydrating Conditioner Max,Beauty,Haircare,Purelle,23.35,54.99,2024-11-01
+217,Purelle Cologne 100ml Plus,Beauty,Fragrance,Purelle,17.41,44.99,2019-02-01
+218,Glowra Foundation,Beauty,Makeup,Glowra,7.28,18.99,2020-06-01
+219,Purelle Daily Moisturizer,Beauty,Skincare,Purelle,18.22,45.99,2021-10-01
+220,Velour Botanica Hydrating Conditioner,Beauty,Haircare,Velour Botanica,6.31,15.99,2019-08-01
+221,Glowra Cologne 100ml Plus,Beauty,Fragrance,Glowra,40.08,95.99,2019-07-01
+222,Purelle Mascara,Beauty,Makeup,Purelle,10.33,23.99,2021-11-01
+223,Velour Botanica Gentle Cleanser,Beauty,Skincare,Velour Botanica,14.19,38.99,2019-12-01
+224,Velour Botanica Hair Oil Max,Beauty,Haircare,Velour Botanica,13.36,29.99,2020-09-01
+225,Velour Botanica Eau de Parfum 50ml Pro,Beauty,Fragrance,Velour Botanica,25.87,68.99,2022-01-01
+226,Velour Botanica Foundation,Beauty,Makeup,Velour Botanica,4.8,11.99,2023-12-01
+227,Purelle Vitamin C Serum X,Beauty,Skincare,Purelle,13.05,31.99,2019-07-01
+228,Purelle Hydrating Conditioner,Beauty,Haircare,Purelle,9.48,21.99,2023-08-01
+229,Glowra Cologne 100ml Plus (2),Beauty,Fragrance,Glowra,31.47,70.99,2022-08-01
+230,Purelle Matte Lipstick Plus,Beauty,Makeup,Purelle,5.17,12.99,2020-10-01
+231,Velour Botanica Vitamin C Serum,Beauty,Skincare,Velour Botanica,13.64,30.99,2025-09-01
+232,Glowra Hair Oil,Beauty,Haircare,Glowra,19.1,49.99,2023-07-01
+233,Purelle Body Mist Lite,Beauty,Fragrance,Purelle,20.39,52.99,2022-06-01
+234,Glowra Eyeshadow Palette,Beauty,Makeup,Glowra,3.91,10.99,2022-08-01
+235,Purelle SPF 50 Sunscreen (2),Beauty,Skincare,Purelle,20.6,45.99,2022-10-01
+236,Velour Botanica Hydrating Conditioner Pro,Beauty,Haircare,Velour Botanica,6.37,16.99,2019-04-01
+237,Glowra Cologne 100ml Max (2),Beauty,Fragrance,Glowra,21.62,54.99,2021-12-01
+238,Velour Botanica Foundation Pro,Beauty,Makeup,Velour Botanica,16.41,37.99,2021-03-01
+239,Velour Botanica SPF 50 Sunscreen,Beauty,Skincare,Velour Botanica,22.9,50.99,2022-07-01
+240,Glowra Repair Shampoo,Beauty,Haircare,Glowra,4.42,10.99,2022-08-01
+241,Glowra Body Mist 2,Beauty,Fragrance,Glowra,57.18,145.99,2019-10-01
+242,Velour Botanica Matte Lipstick Pro,Beauty,Makeup,Velour Botanica,8.85,22.99,2025-09-01
+243,Glowra Vitamin C Serum Lite,Beauty,Skincare,Glowra,5.34,14.99,2019-09-01
+244,Velour Botanica Repair Shampoo,Beauty,Haircare,Velour Botanica,20.67,46.99,2021-04-01
+245,Glowra Eau de Parfum 50ml Lite,Beauty,Fragrance,Glowra,30.17,68.99,2020-12-01
+246,Purelle Eyeshadow Palette Pro,Beauty,Makeup,Purelle,4.76,12.99,2019-02-01
+247,Glowra Vitamin C Serum,Beauty,Skincare,Glowra,8.47,20.99,2020-10-01
+248,Purelle Repair Shampoo Pro,Beauty,Haircare,Purelle,18.66,45.99,2019-11-01
+249,Purelle Body Mist Lite (2),Beauty,Fragrance,Purelle,28.68,76.99,2023-12-01
+250,Glowra Mascara,Beauty,Makeup,Glowra,5.69,12.99,2019-06-01
+251,Playfort Castle Set Max,Toys,Building Sets,Playfort,17.75,30.99,2019-07-01
+252,Playfort Trivia Game X,Toys,Board Games,Playfort,22.33,41.99,2021-10-01
+253,Brickly Water Blaster Max,Toys,Outdoor Toys,Brickly,51.87,99.99,2020-07-01
+254,Brickly Fashion Doll Pro,Toys,Dolls & Figures,Brickly,27.89,54.99,2019-12-01
+255,Playfort STEM Robot Kit,Toys,Educational,Playfort,43.96,86.99,2021-10-01
+256,Playfort Space Station Set X,Toys,Building Sets,Playfort,38.29,73.99,2022-07-01
+257,Playfort Party Card Game Pro,Toys,Board Games,Playfort,12.88,23.99,2024-06-01
+258,Brickly Water Blaster Plus,Toys,Outdoor Toys,Brickly,32.05,55.99,2019-01-01
+259,Brickly Action Figure Max,Toys,Dolls & Figures,Brickly,15.93,30.99,2020-05-01
+260,Playfort Coding Puzzle X,Toys,Educational,Playfort,31.81,62.99,2023-12-01
+261,Wondertoy Castle Set Plus,Toys,Building Sets,Wondertoy,49.12,92.99,2020-01-01
+262,Wondertoy Party Card Game,Toys,Board Games,Wondertoy,13.03,24.99,2021-12-01
+263,Brickly Kids Scooter,Toys,Outdoor Toys,Brickly,30.81,56.99,2020-12-01
+264,Wondertoy Fashion Doll Max,Toys,Dolls & Figures,Wondertoy,18.15,34.99,2020-05-01
+265,Wondertoy Coding Puzzle Lite,Toys,Educational,Wondertoy,49.85,88.99,2020-05-01
+266,Brickly City Building Set 2,Toys,Building Sets,Brickly,19.75,36.99,2019-01-01
+267,Wondertoy Trivia Game,Toys,Board Games,Wondertoy,13.05,23.99,2022-03-01
+268,Wondertoy Kids Scooter 2,Toys,Outdoor Toys,Wondertoy,29.93,58.99,2019-02-01
+269,Wondertoy Fashion Doll,Toys,Dolls & Figures,Wondertoy,11.96,20.99,2022-04-01
+270,Wondertoy Coding Puzzle Pro,Toys,Educational,Wondertoy,17.76,31.99,2023-10-01
+271,Wondertoy Castle Set Max,Toys,Building Sets,Wondertoy,19.39,35.99,2025-08-01
+272,Brickly Party Card Game 2,Toys,Board Games,Brickly,14.78,25.99,2019-12-01
+273,Playfort Kids Scooter Lite,Toys,Outdoor Toys,Playfort,13.56,26.99,2020-04-01
+274,Wondertoy Plush Bear Plus,Toys,Dolls & Figures,Wondertoy,29.28,54.99,2020-05-01
+275,Wondertoy STEM Robot Kit,Toys,Educational,Wondertoy,13.55,23.99,2021-11-01
+276,Wondertoy Space Station Set Max,Toys,Building Sets,Wondertoy,16.82,30.99,2020-12-01
+277,Wondertoy Party Card Game (2),Toys,Board Games,Wondertoy,13.59,25.99,2020-02-01
+278,Playfort Trampoline 8ft,Toys,Outdoor Toys,Playfort,75.16,149.99,2023-09-01
+279,Playfort Plush Bear,Toys,Dolls & Figures,Playfort,8.36,14.99,2021-05-01
+280,Playfort Coding Puzzle Max,Toys,Educational,Playfort,11.91,20.99,2023-10-01
+281,Brickly Castle Set,Toys,Building Sets,Brickly,32.59,60.99,2022-12-01
+282,Playfort Party Card Game,Toys,Board Games,Playfort,12.66,23.99,2019-08-01
+283,Brickly Trampoline 8ft Plus,Toys,Outdoor Toys,Brickly,43.24,85.99,2025-01-01
+284,Wondertoy Fashion Doll (2),Toys,Dolls & Figures,Wondertoy,10.34,19.99,2023-07-01
+285,Brickly Science Lab Kit Pro,Toys,Educational,Brickly,11.03,19.99,2021-07-01
+286,Kestrel Slim Fit Jeans,Apparel,Bottoms,Kestrel,28.19,70.99,2025-03-01
+287,Kestrel Stretch Chinos,Apparel,Bottoms,Kestrel,29.82,77.99,2025-03-01
+288,Kestrel Fitted Blazer,Apparel,Outerwear,Kestrel,64.54,168.99,2025-03-01
+289,Kestrel Merino Sweater,Apparel,Tops,Kestrel,36.38,86.99,2025-03-01
+290,Kestrel Tailored Shirt,Apparel,Tops,Kestrel,23.19,59.99,2025-03-01
+291,Kestrel Slim Joggers,Apparel,Bottoms,Kestrel,22.6,56.99,2025-03-01
+292,Kestrel Cropped Jacket,Apparel,Outerwear,Kestrel,61.87,145.99,2025-03-01
+293,Kestrel Ribbed Knit Top,Apparel,Tops,Kestrel,22.64,51.99,2025-03-01
+294,Kestrel Chelsea Boots,Apparel,Footwear,Kestrel,75.12,170.99,2025-03-01
+295,Kestrel Wide Leg Trousers,Apparel,Bottoms,Kestrel,37.12,86.99,2025-03-01
+296,Kestrel Performance Leggings,Apparel,Activewear,Kestrel,33.25,76.99,2025-03-01
+297,Kestrel Quilted Vest,Apparel,Outerwear,Kestrel,48.23,120.99,2025-03-01
+298,Kestrel Linen Shirt,Apparel,Tops,Kestrel,28.61,65.99,2025-03-01
+299,Kestrel Denim Jacket,Apparel,Outerwear,Kestrel,61.2,143.99,2025-03-01
+300,Kestrel Low-Top Sneakers,Apparel,Footwear,Kestrel,39.27,94.99,2025-03-01
